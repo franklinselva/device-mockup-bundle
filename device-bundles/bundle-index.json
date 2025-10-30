@@ -1,0 +1,1396 @@
+{
+  "version": 1,
+  "bundles": [
+    "apple-applewatch41mm-goldstainlesssteel.bundle",
+    "apple-applewatch41mm-graphitestainlesssteel.bundle",
+    "apple-applewatch41mm-midnightaluminum.bundle",
+    "apple-applewatch41mm-silveraluminum.bundle",
+    "apple-applewatch41mm-silverstainlesssteel.bundle",
+    "apple-applewatch41mm-starlightaluminum.bundle",
+    "apple-applewatch45mm-goldstainlesssteel.bundle",
+    "apple-applewatch45mm-graphitestainlesssteel.bundle",
+    "apple-applewatch45mm-midnightaluminum.bundle",
+    "apple-applewatch45mm-silveraluminum.bundle",
+    "apple-applewatch45mm-silverstainlesssteel.bundle",
+    "apple-applewatch45mm-starlightaluminum.bundle",
+    "apple-applewatchultra.bundle",
+    "apple-ipad.bundle",
+    "apple-ipadair5.bundle",
+    "apple-ipadmini.bundle",
+    "apple-ipadpro11.bundle",
+    "apple-ipadpro13.bundle",
+    "apple-iphone-15.bundle",
+    "apple-iphone-15-plus.bundle",
+    "apple-iphone-15-pro.bundle",
+    "apple-iphone-15-pro-max.bundle",
+    "apple-iphone13.bundle",
+    "apple-iphone13mini.bundle",
+    "apple-iphone13pro.bundle",
+    "apple-iphone13promax.bundle",
+    "apple-iphone14.bundle",
+    "apple-iphone14plus.bundle",
+    "apple-iphone14pro.bundle",
+    "apple-iphone14promax.bundle",
+    "apple-macbook.bundle",
+    "apple-macbookair13.bundle",
+    "apple-macbookpro14.bundle",
+    "apple-macbookpro16.bundle",
+    "apple-watch-series-5-40-mm.bundle",
+    "apple-watch-ultra-2.bundle",
+    "google-pixel.bundle",
+    "google-pixel-7.bundle",
+    "google-pixel-8.bundle",
+    "google-pixel-quite.bundle",
+    "google-pixel-really.bundle",
+    "google-pixel-very.bundle",
+    "huawei-p-40-pro-plus.bundle",
+    "motorola-motoe.bundle",
+    "oneplus-oneplus8pro.bundle",
+    "samsung-galaxy-s24.bundle",
+    "samsung-galaxy-watch-4.bundle",
+    "samsung-galaxy-watch-4-pink.bundle",
+    "samsung-galaxys21.bundle",
+    "samsung-galaxys21plus.bundle",
+    "samsung-galaxys21ultra.bundle"
+  ],
+  "devices": [
+    {
+      "device_id": "apple-applewatch41mm-goldstainlesssteel-starlightsololoop",
+      "orientation": "landscape",
+      "bundle_file": "apple-applewatch41mm-goldstainlesssteel.bundle",
+      "model": "apple-applewatch41mm-goldstainlesssteel"
+    },
+    {
+      "device_id": "apple-applewatch41mm-goldstainlesssteel-starlightsololoop",
+      "orientation": "portrait",
+      "bundle_file": "apple-applewatch41mm-goldstainlesssteel.bundle",
+      "model": "apple-applewatch41mm-goldstainlesssteel"
+    },
+    {
+      "device_id": "apple-applewatch41mm-graphitestainlesssteel-graysololoop",
+      "orientation": "portrait",
+      "bundle_file": "apple-applewatch41mm-graphitestainlesssteel.bundle",
+      "model": "apple-applewatch41mm-graphitestainlesssteel"
+    },
+    {
+      "device_id": "apple-applewatch41mm-graphitestainlesssteel-graysololoop",
+      "orientation": "landscape",
+      "bundle_file": "apple-applewatch41mm-graphitestainlesssteel.bundle",
+      "model": "apple-applewatch41mm-graphitestainlesssteel"
+    },
+    {
+      "device_id": "apple-applewatch41mm-midnightaluminum-graysololoop",
+      "orientation": "landscape",
+      "bundle_file": "apple-applewatch41mm-midnightaluminum.bundle",
+      "model": "apple-applewatch41mm-midnightaluminum"
+    },
+    {
+      "device_id": "apple-applewatch41mm-midnightaluminum-graysololoop",
+      "orientation": "portrait",
+      "bundle_file": "apple-applewatch41mm-midnightaluminum.bundle",
+      "model": "apple-applewatch41mm-midnightaluminum"
+    },
+    {
+      "device_id": "apple-applewatch41mm-silveraluminum-softgraysololoop",
+      "orientation": "portrait",
+      "bundle_file": "apple-applewatch41mm-silveraluminum.bundle",
+      "model": "apple-applewatch41mm-silveraluminum"
+    },
+    {
+      "device_id": "apple-applewatch41mm-silveraluminum-softgraysololoop",
+      "orientation": "landscape",
+      "bundle_file": "apple-applewatch41mm-silveraluminum.bundle",
+      "model": "apple-applewatch41mm-silveraluminum"
+    },
+    {
+      "device_id": "apple-applewatch41mm-silverstainlesssteel-softgraysololoop",
+      "orientation": "landscape",
+      "bundle_file": "apple-applewatch41mm-silverstainlesssteel.bundle",
+      "model": "apple-applewatch41mm-silverstainlesssteel"
+    },
+    {
+      "device_id": "apple-applewatch41mm-silverstainlesssteel-softgraysololoop",
+      "orientation": "portrait",
+      "bundle_file": "apple-applewatch41mm-silverstainlesssteel.bundle",
+      "model": "apple-applewatch41mm-silverstainlesssteel"
+    },
+    {
+      "device_id": "apple-applewatch41mm-starlightaluminum-starlightsololoop",
+      "orientation": "portrait",
+      "bundle_file": "apple-applewatch41mm-starlightaluminum.bundle",
+      "model": "apple-applewatch41mm-starlightaluminum"
+    },
+    {
+      "device_id": "apple-applewatch41mm-starlightaluminum-starlightsololoop",
+      "orientation": "landscape",
+      "bundle_file": "apple-applewatch41mm-starlightaluminum.bundle",
+      "model": "apple-applewatch41mm-starlightaluminum"
+    },
+    {
+      "device_id": "apple-applewatch45mm-goldstainlesssteel-starlightsololoop",
+      "orientation": "landscape",
+      "bundle_file": "apple-applewatch45mm-goldstainlesssteel.bundle",
+      "model": "apple-applewatch45mm-goldstainlesssteel"
+    },
+    {
+      "device_id": "apple-applewatch45mm-goldstainlesssteel-starlightsololoop",
+      "orientation": "portrait",
+      "bundle_file": "apple-applewatch45mm-goldstainlesssteel.bundle",
+      "model": "apple-applewatch45mm-goldstainlesssteel"
+    },
+    {
+      "device_id": "apple-applewatch45mm-graphitestainlesssteel-graysololoop",
+      "orientation": "portrait",
+      "bundle_file": "apple-applewatch45mm-graphitestainlesssteel.bundle",
+      "model": "apple-applewatch45mm-graphitestainlesssteel"
+    },
+    {
+      "device_id": "apple-applewatch45mm-graphitestainlesssteel-graysololoop",
+      "orientation": "landscape",
+      "bundle_file": "apple-applewatch45mm-graphitestainlesssteel.bundle",
+      "model": "apple-applewatch45mm-graphitestainlesssteel"
+    },
+    {
+      "device_id": "apple-applewatch45mm-midnightaluminum-graysololoop",
+      "orientation": "portrait",
+      "bundle_file": "apple-applewatch45mm-midnightaluminum.bundle",
+      "model": "apple-applewatch45mm-midnightaluminum"
+    },
+    {
+      "device_id": "apple-applewatch45mm-midnightaluminum-graysololoop",
+      "orientation": "landscape",
+      "bundle_file": "apple-applewatch45mm-midnightaluminum.bundle",
+      "model": "apple-applewatch45mm-midnightaluminum"
+    },
+    {
+      "device_id": "apple-applewatch45mm-silveraluminum-softgraysololoop",
+      "orientation": "landscape",
+      "bundle_file": "apple-applewatch45mm-silveraluminum.bundle",
+      "model": "apple-applewatch45mm-silveraluminum"
+    },
+    {
+      "device_id": "apple-applewatch45mm-silveraluminum-softgraysololoop",
+      "orientation": "portrait",
+      "bundle_file": "apple-applewatch45mm-silveraluminum.bundle",
+      "model": "apple-applewatch45mm-silveraluminum"
+    },
+    {
+      "device_id": "apple-applewatch45mm-silverstainlesssteel-softgraysololoop",
+      "orientation": "landscape",
+      "bundle_file": "apple-applewatch45mm-silverstainlesssteel.bundle",
+      "model": "apple-applewatch45mm-silverstainlesssteel"
+    },
+    {
+      "device_id": "apple-applewatch45mm-silverstainlesssteel-softgraysololoop",
+      "orientation": "portrait",
+      "bundle_file": "apple-applewatch45mm-silverstainlesssteel.bundle",
+      "model": "apple-applewatch45mm-silverstainlesssteel"
+    },
+    {
+      "device_id": "apple-applewatch45mm-starlightaluminum-starlightsololoop",
+      "orientation": "landscape",
+      "bundle_file": "apple-applewatch45mm-starlightaluminum.bundle",
+      "model": "apple-applewatch45mm-starlightaluminum"
+    },
+    {
+      "device_id": "apple-applewatch45mm-starlightaluminum-starlightsololoop",
+      "orientation": "portrait",
+      "bundle_file": "apple-applewatch45mm-starlightaluminum.bundle",
+      "model": "apple-applewatch45mm-starlightaluminum"
+    },
+    {
+      "device_id": "apple-applewatchultra-alpineband",
+      "orientation": "portrait",
+      "bundle_file": "apple-applewatchultra.bundle",
+      "model": "apple-applewatchultra"
+    },
+    {
+      "device_id": "apple-applewatchultra-alpineband",
+      "orientation": "landscape",
+      "bundle_file": "apple-applewatchultra.bundle",
+      "model": "apple-applewatchultra"
+    },
+    {
+      "device_id": "apple-ipad-silver",
+      "orientation": "landscape",
+      "bundle_file": "apple-ipad.bundle",
+      "model": "apple-ipad"
+    },
+    {
+      "device_id": "apple-ipad-silver",
+      "orientation": "portrait",
+      "bundle_file": "apple-ipad.bundle",
+      "model": "apple-ipad"
+    },
+    {
+      "device_id": "apple-ipadair5-spacegrey",
+      "orientation": "landscape",
+      "bundle_file": "apple-ipadair5.bundle",
+      "model": "apple-ipadair5"
+    },
+    {
+      "device_id": "apple-ipadair5-spacegrey",
+      "orientation": "portrait",
+      "bundle_file": "apple-ipadair5.bundle",
+      "model": "apple-ipadair5"
+    },
+    {
+      "device_id": "apple-ipadmini-starlight",
+      "orientation": "portrait",
+      "bundle_file": "apple-ipadmini.bundle",
+      "model": "apple-ipadmini"
+    },
+    {
+      "device_id": "apple-ipadmini-starlight",
+      "orientation": "landscape",
+      "bundle_file": "apple-ipadmini.bundle",
+      "model": "apple-ipadmini"
+    },
+    {
+      "device_id": "apple-ipadpro11-spacegrey",
+      "orientation": "right",
+      "bundle_file": "apple-ipadpro11.bundle",
+      "model": "apple-ipadpro11"
+    },
+    {
+      "device_id": "apple-ipadpro11-spacegrey",
+      "orientation": "portrait",
+      "bundle_file": "apple-ipadpro11.bundle",
+      "model": "apple-ipadpro11"
+    },
+    {
+      "device_id": "apple-ipadpro11-spacegrey",
+      "orientation": "landscape",
+      "bundle_file": "apple-ipadpro11.bundle",
+      "model": "apple-ipadpro11"
+    },
+    {
+      "device_id": "apple-ipadpro13-spacegrey",
+      "orientation": "portrait",
+      "bundle_file": "apple-ipadpro13.bundle",
+      "model": "apple-ipadpro13"
+    },
+    {
+      "device_id": "apple-ipadpro13-spacegrey",
+      "orientation": "landscape",
+      "bundle_file": "apple-ipadpro13.bundle",
+      "model": "apple-ipadpro13"
+    },
+    {
+      "device_id": "apple-iphone-15-yellow",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone-15.bundle",
+      "model": "apple-iphone-15"
+    },
+    {
+      "device_id": "apple-iphone-15-green",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone-15.bundle",
+      "model": "apple-iphone-15"
+    },
+    {
+      "device_id": "apple-iphone-15-pink",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone-15.bundle",
+      "model": "apple-iphone-15"
+    },
+    {
+      "device_id": "apple-iphone-15-black",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone-15.bundle",
+      "model": "apple-iphone-15"
+    },
+    {
+      "device_id": "apple-iphone-15-green",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone-15.bundle",
+      "model": "apple-iphone-15"
+    },
+    {
+      "device_id": "apple-iphone-15-yellow",
+      "orientation": "left",
+      "bundle_file": "apple-iphone-15.bundle",
+      "model": "apple-iphone-15"
+    },
+    {
+      "device_id": "apple-iphone-15-pink",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone-15.bundle",
+      "model": "apple-iphone-15"
+    },
+    {
+      "device_id": "apple-iphone-15-blue",
+      "orientation": "left",
+      "bundle_file": "apple-iphone-15.bundle",
+      "model": "apple-iphone-15"
+    },
+    {
+      "device_id": "apple-iphone-15-yellow",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone-15.bundle",
+      "model": "apple-iphone-15"
+    },
+    {
+      "device_id": "apple-iphone-15-black",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone-15.bundle",
+      "model": "apple-iphone-15"
+    },
+    {
+      "device_id": "apple-iphone-15-green",
+      "orientation": "left",
+      "bundle_file": "apple-iphone-15.bundle",
+      "model": "apple-iphone-15"
+    },
+    {
+      "device_id": "apple-iphone-15-black",
+      "orientation": "left",
+      "bundle_file": "apple-iphone-15.bundle",
+      "model": "apple-iphone-15"
+    },
+    {
+      "device_id": "apple-iphone-15-pink",
+      "orientation": "left",
+      "bundle_file": "apple-iphone-15.bundle",
+      "model": "apple-iphone-15"
+    },
+    {
+      "device_id": "apple-iphone-15-blue",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone-15.bundle",
+      "model": "apple-iphone-15"
+    },
+    {
+      "device_id": "apple-iphone-15-blue",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone-15.bundle",
+      "model": "apple-iphone-15"
+    },
+    {
+      "device_id": "apple-iphone-15-plus-yellow",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone-15-plus.bundle",
+      "model": "apple-iphone-15-plus"
+    },
+    {
+      "device_id": "apple-iphone-15-plus-blue",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone-15-plus.bundle",
+      "model": "apple-iphone-15-plus"
+    },
+    {
+      "device_id": "apple-iphone-15-plus-green",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone-15-plus.bundle",
+      "model": "apple-iphone-15-plus"
+    },
+    {
+      "device_id": "apple-iphone-15-plus-pink",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone-15-plus.bundle",
+      "model": "apple-iphone-15-plus"
+    },
+    {
+      "device_id": "apple-iphone-15-plus-black",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone-15-plus.bundle",
+      "model": "apple-iphone-15-plus"
+    },
+    {
+      "device_id": "apple-iphone-15-plus-pink",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone-15-plus.bundle",
+      "model": "apple-iphone-15-plus"
+    },
+    {
+      "device_id": "apple-iphone-15-plus-yellow",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone-15-plus.bundle",
+      "model": "apple-iphone-15-plus"
+    },
+    {
+      "device_id": "apple-iphone-15-plus-green",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone-15-plus.bundle",
+      "model": "apple-iphone-15-plus"
+    },
+    {
+      "device_id": "apple-iphone-15-plus-black",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone-15-plus.bundle",
+      "model": "apple-iphone-15-plus"
+    },
+    {
+      "device_id": "apple-iphone-15-plus-blue",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone-15-plus.bundle",
+      "model": "apple-iphone-15-plus"
+    },
+    {
+      "device_id": "apple-iphone-15-pro-white-titanium",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone-15-pro.bundle",
+      "model": "apple-iphone-15-pro"
+    },
+    {
+      "device_id": "apple-iphone-15-pro-blue-titanium",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone-15-pro.bundle",
+      "model": "apple-iphone-15-pro"
+    },
+    {
+      "device_id": "apple-iphone-15-pro-white-titanium",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone-15-pro.bundle",
+      "model": "apple-iphone-15-pro"
+    },
+    {
+      "device_id": "apple-iphone-15-pro-black-titanium",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone-15-pro.bundle",
+      "model": "apple-iphone-15-pro"
+    },
+    {
+      "device_id": "apple-iphone-15-pro-natural-titanium",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone-15-pro.bundle",
+      "model": "apple-iphone-15-pro"
+    },
+    {
+      "device_id": "apple-iphone-15-pro-natural-titanium",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone-15-pro.bundle",
+      "model": "apple-iphone-15-pro"
+    },
+    {
+      "device_id": "apple-iphone-15-pro-black-titanium",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone-15-pro.bundle",
+      "model": "apple-iphone-15-pro"
+    },
+    {
+      "device_id": "apple-iphone-15-pro-blue-titanium",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone-15-pro.bundle",
+      "model": "apple-iphone-15-pro"
+    },
+    {
+      "device_id": "apple-iphone-15-pro-max-white-titanium",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone-15-pro-max.bundle",
+      "model": "apple-iphone-15-pro-max"
+    },
+    {
+      "device_id": "apple-iphone-15-pro-max-blue-titanium",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone-15-pro-max.bundle",
+      "model": "apple-iphone-15-pro-max"
+    },
+    {
+      "device_id": "apple-iphone-15-pro-max-natural-titanium",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone-15-pro-max.bundle",
+      "model": "apple-iphone-15-pro-max"
+    },
+    {
+      "device_id": "apple-iphone-15-pro-max-blue-titanium",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone-15-pro-max.bundle",
+      "model": "apple-iphone-15-pro-max"
+    },
+    {
+      "device_id": "apple-iphone-15-pro-max-natural-titanium",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone-15-pro-max.bundle",
+      "model": "apple-iphone-15-pro-max"
+    },
+    {
+      "device_id": "apple-iphone-15-pro-max-black-titanium",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone-15-pro-max.bundle",
+      "model": "apple-iphone-15-pro-max"
+    },
+    {
+      "device_id": "apple-iphone-15-pro-max-black-titanium",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone-15-pro-max.bundle",
+      "model": "apple-iphone-15-pro-max"
+    },
+    {
+      "device_id": "apple-iphone-15-pro-max-white-titanium",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone-15-pro-max.bundle",
+      "model": "apple-iphone-15-pro-max"
+    },
+    {
+      "device_id": "apple-iphone13-starlight",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone13.bundle",
+      "model": "apple-iphone13"
+    },
+    {
+      "device_id": "apple-iphone13-midnight",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone13.bundle",
+      "model": "apple-iphone13"
+    },
+    {
+      "device_id": "apple-iphone13-starlight",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone13.bundle",
+      "model": "apple-iphone13"
+    },
+    {
+      "device_id": "apple-iphone13-midnight",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone13.bundle",
+      "model": "apple-iphone13"
+    },
+    {
+      "device_id": "apple-iphone13-pink",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone13.bundle",
+      "model": "apple-iphone13"
+    },
+    {
+      "device_id": "apple-iphone13-blue",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone13.bundle",
+      "model": "apple-iphone13"
+    },
+    {
+      "device_id": "apple-iphone13-pink",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone13.bundle",
+      "model": "apple-iphone13"
+    },
+    {
+      "device_id": "apple-iphone13-red",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone13.bundle",
+      "model": "apple-iphone13"
+    },
+    {
+      "device_id": "apple-iphone13-red",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone13.bundle",
+      "model": "apple-iphone13"
+    },
+    {
+      "device_id": "apple-iphone13-blue",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone13.bundle",
+      "model": "apple-iphone13"
+    },
+    {
+      "device_id": "apple-iphone13mini-blue",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone13mini.bundle",
+      "model": "apple-iphone13mini"
+    },
+    {
+      "device_id": "apple-iphone13mini-pink",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone13mini.bundle",
+      "model": "apple-iphone13mini"
+    },
+    {
+      "device_id": "apple-iphone13mini-red",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone13mini.bundle",
+      "model": "apple-iphone13mini"
+    },
+    {
+      "device_id": "apple-iphone13mini-midnight",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone13mini.bundle",
+      "model": "apple-iphone13mini"
+    },
+    {
+      "device_id": "apple-iphone13mini-starlight",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone13mini.bundle",
+      "model": "apple-iphone13mini"
+    },
+    {
+      "device_id": "apple-iphone13mini-red",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone13mini.bundle",
+      "model": "apple-iphone13mini"
+    },
+    {
+      "device_id": "apple-iphone13mini-midnight",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone13mini.bundle",
+      "model": "apple-iphone13mini"
+    },
+    {
+      "device_id": "apple-iphone13mini-blue",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone13mini.bundle",
+      "model": "apple-iphone13mini"
+    },
+    {
+      "device_id": "apple-iphone13mini-starlight",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone13mini.bundle",
+      "model": "apple-iphone13mini"
+    },
+    {
+      "device_id": "apple-iphone13mini-pink",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone13mini.bundle",
+      "model": "apple-iphone13mini"
+    },
+    {
+      "device_id": "apple-iphone13pro-sierrablue",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone13pro.bundle",
+      "model": "apple-iphone13pro"
+    },
+    {
+      "device_id": "apple-iphone13pro-graphite",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone13pro.bundle",
+      "model": "apple-iphone13pro"
+    },
+    {
+      "device_id": "apple-iphone13pro-sierrablue",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone13pro.bundle",
+      "model": "apple-iphone13pro"
+    },
+    {
+      "device_id": "apple-iphone13pro-gold",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone13pro.bundle",
+      "model": "apple-iphone13pro"
+    },
+    {
+      "device_id": "apple-iphone13pro-gold",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone13pro.bundle",
+      "model": "apple-iphone13pro"
+    },
+    {
+      "device_id": "apple-iphone13pro-silver",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone13pro.bundle",
+      "model": "apple-iphone13pro"
+    },
+    {
+      "device_id": "apple-iphone13pro-graphite",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone13pro.bundle",
+      "model": "apple-iphone13pro"
+    },
+    {
+      "device_id": "apple-iphone13pro-silver",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone13pro.bundle",
+      "model": "apple-iphone13pro"
+    },
+    {
+      "device_id": "apple-iphone13promax-silver",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone13promax.bundle",
+      "model": "apple-iphone13promax"
+    },
+    {
+      "device_id": "apple-iphone13promax-silver",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone13promax.bundle",
+      "model": "apple-iphone13promax"
+    },
+    {
+      "device_id": "apple-iphone13promax-graphite",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone13promax.bundle",
+      "model": "apple-iphone13promax"
+    },
+    {
+      "device_id": "apple-iphone13promax-sierrablue",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone13promax.bundle",
+      "model": "apple-iphone13promax"
+    },
+    {
+      "device_id": "apple-iphone13promax-sierrablue",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone13promax.bundle",
+      "model": "apple-iphone13promax"
+    },
+    {
+      "device_id": "apple-iphone13promax-gold",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone13promax.bundle",
+      "model": "apple-iphone13promax"
+    },
+    {
+      "device_id": "apple-iphone13promax-gold",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone13promax.bundle",
+      "model": "apple-iphone13promax"
+    },
+    {
+      "device_id": "apple-iphone13promax-graphite",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone13promax.bundle",
+      "model": "apple-iphone13promax"
+    },
+    {
+      "device_id": "apple-iphone14-starlight",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone14.bundle",
+      "model": "apple-iphone14"
+    },
+    {
+      "device_id": "apple-iphone14-purple",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone14.bundle",
+      "model": "apple-iphone14"
+    },
+    {
+      "device_id": "apple-iphone14-purple",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone14.bundle",
+      "model": "apple-iphone14"
+    },
+    {
+      "device_id": "apple-iphone14-red",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone14.bundle",
+      "model": "apple-iphone14"
+    },
+    {
+      "device_id": "apple-iphone14-midnight",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone14.bundle",
+      "model": "apple-iphone14"
+    },
+    {
+      "device_id": "apple-iphone14-starlight",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone14.bundle",
+      "model": "apple-iphone14"
+    },
+    {
+      "device_id": "apple-iphone14-red",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone14.bundle",
+      "model": "apple-iphone14"
+    },
+    {
+      "device_id": "apple-iphone14-blue",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone14.bundle",
+      "model": "apple-iphone14"
+    },
+    {
+      "device_id": "apple-iphone14-midnight",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone14.bundle",
+      "model": "apple-iphone14"
+    },
+    {
+      "device_id": "apple-iphone14-blue",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone14.bundle",
+      "model": "apple-iphone14"
+    },
+    {
+      "device_id": "apple-iphone14plus-blue",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone14plus.bundle",
+      "model": "apple-iphone14plus"
+    },
+    {
+      "device_id": "apple-iphone14plus-midnight",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone14plus.bundle",
+      "model": "apple-iphone14plus"
+    },
+    {
+      "device_id": "apple-iphone14plus-red",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone14plus.bundle",
+      "model": "apple-iphone14plus"
+    },
+    {
+      "device_id": "apple-iphone14plus-blue",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone14plus.bundle",
+      "model": "apple-iphone14plus"
+    },
+    {
+      "device_id": "apple-iphone14plus-starlight",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone14plus.bundle",
+      "model": "apple-iphone14plus"
+    },
+    {
+      "device_id": "apple-iphone14plus-midnight",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone14plus.bundle",
+      "model": "apple-iphone14plus"
+    },
+    {
+      "device_id": "apple-iphone14plus-purple",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone14plus.bundle",
+      "model": "apple-iphone14plus"
+    },
+    {
+      "device_id": "apple-iphone14plus-red",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone14plus.bundle",
+      "model": "apple-iphone14plus"
+    },
+    {
+      "device_id": "apple-iphone14plus-purple",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone14plus.bundle",
+      "model": "apple-iphone14plus"
+    },
+    {
+      "device_id": "apple-iphone14plus-starlight",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone14plus.bundle",
+      "model": "apple-iphone14plus"
+    },
+    {
+      "device_id": "apple-iphone14pro-spaceblack",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone14pro.bundle",
+      "model": "apple-iphone14pro"
+    },
+    {
+      "device_id": "apple-iphone14pro-silver",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone14pro.bundle",
+      "model": "apple-iphone14pro"
+    },
+    {
+      "device_id": "apple-iphone14pro-silver",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone14pro.bundle",
+      "model": "apple-iphone14pro"
+    },
+    {
+      "device_id": "apple-iphone14pro-gold",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone14pro.bundle",
+      "model": "apple-iphone14pro"
+    },
+    {
+      "device_id": "apple-iphone14pro-deeppurple",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone14pro.bundle",
+      "model": "apple-iphone14pro"
+    },
+    {
+      "device_id": "apple-iphone14pro-gold",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone14pro.bundle",
+      "model": "apple-iphone14pro"
+    },
+    {
+      "device_id": "apple-iphone14pro-deeppurple",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone14pro.bundle",
+      "model": "apple-iphone14pro"
+    },
+    {
+      "device_id": "apple-iphone14pro-spaceblack",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone14pro.bundle",
+      "model": "apple-iphone14pro"
+    },
+    {
+      "device_id": "apple-iphone14promax-deeppurple",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone14promax.bundle",
+      "model": "apple-iphone14promax"
+    },
+    {
+      "device_id": "apple-iphone14promax-gold",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone14promax.bundle",
+      "model": "apple-iphone14promax"
+    },
+    {
+      "device_id": "apple-iphone14promax-deeppurple",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone14promax.bundle",
+      "model": "apple-iphone14promax"
+    },
+    {
+      "device_id": "apple-iphone14promax-spaceblack",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone14promax.bundle",
+      "model": "apple-iphone14promax"
+    },
+    {
+      "device_id": "apple-iphone14promax-silver",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone14promax.bundle",
+      "model": "apple-iphone14promax"
+    },
+    {
+      "device_id": "apple-iphone14promax-silver",
+      "orientation": "landscape",
+      "bundle_file": "apple-iphone14promax.bundle",
+      "model": "apple-iphone14promax"
+    },
+    {
+      "device_id": "apple-iphone14promax-spaceblack",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone14promax.bundle",
+      "model": "apple-iphone14promax"
+    },
+    {
+      "device_id": "apple-iphone14promax-gold",
+      "orientation": "portrait",
+      "bundle_file": "apple-iphone14promax.bundle",
+      "model": "apple-iphone14promax"
+    },
+    {
+      "device_id": "apple-macbook-grey",
+      "orientation": "front",
+      "bundle_file": "apple-macbook.bundle",
+      "model": "apple-macbook"
+    },
+    {
+      "device_id": "apple-macbook-gold",
+      "orientation": "front",
+      "bundle_file": "apple-macbook.bundle",
+      "model": "apple-macbook"
+    },
+    {
+      "device_id": "apple-macbookair13",
+      "orientation": "front",
+      "bundle_file": "apple-macbookair13.bundle",
+      "model": "apple-macbookair13"
+    },
+    {
+      "device_id": "apple-macbookpro14",
+      "orientation": "front",
+      "bundle_file": "apple-macbookpro14.bundle",
+      "model": "apple-macbookpro14"
+    },
+    {
+      "device_id": "apple-macbookpro16",
+      "orientation": "front",
+      "bundle_file": "apple-macbookpro16.bundle",
+      "model": "apple-macbookpro16"
+    },
+    {
+      "device_id": "apple-watch-series-5-40-mm-white-ceramic-white-closed",
+      "orientation": "landscape",
+      "bundle_file": "apple-watch-series-5-40-mm.bundle",
+      "model": "apple-watch-series-5-40-mm"
+    },
+    {
+      "device_id": "apple-watch-series-5-40-mm-gold-aluminum-pink-sand-closed",
+      "orientation": "landscape",
+      "bundle_file": "apple-watch-series-5-40-mm.bundle",
+      "model": "apple-watch-series-5-40-mm"
+    },
+    {
+      "device_id": "apple-watch-series-5-40-mm-space-grey-aluminum-black-closed",
+      "orientation": "portrait",
+      "bundle_file": "apple-watch-series-5-40-mm.bundle",
+      "model": "apple-watch-series-5-40-mm"
+    },
+    {
+      "device_id": "apple-watch-series-5-40-mm-gold-aluminum-pink-sand-closed",
+      "orientation": "portrait",
+      "bundle_file": "apple-watch-series-5-40-mm.bundle",
+      "model": "apple-watch-series-5-40-mm"
+    },
+    {
+      "device_id": "apple-watch-series-5-40-mm-white-ceramic-white-closed",
+      "orientation": "portrait",
+      "bundle_file": "apple-watch-series-5-40-mm.bundle",
+      "model": "apple-watch-series-5-40-mm"
+    },
+    {
+      "device_id": "apple-watch-series-5-40-mm-space-grey-aluminum-black-closed",
+      "orientation": "landscape",
+      "bundle_file": "apple-watch-series-5-40-mm.bundle",
+      "model": "apple-watch-series-5-40-mm"
+    },
+    {
+      "device_id": "apple-watch-ultra-2-orange-beige-trail-loop",
+      "orientation": "landscape",
+      "bundle_file": "apple-watch-ultra-2.bundle",
+      "model": "apple-watch-ultra-2"
+    },
+    {
+      "device_id": "apple-watch-ultra-2-blue-alpine-loop",
+      "orientation": "landscape",
+      "bundle_file": "apple-watch-ultra-2.bundle",
+      "model": "apple-watch-ultra-2"
+    },
+    {
+      "device_id": "apple-watch-ultra-2-blue-alpine-loop",
+      "orientation": "portrait",
+      "bundle_file": "apple-watch-ultra-2.bundle",
+      "model": "apple-watch-ultra-2"
+    },
+    {
+      "device_id": "apple-watch-ultra-2-orange-ocean-band",
+      "orientation": "landscape",
+      "bundle_file": "apple-watch-ultra-2.bundle",
+      "model": "apple-watch-ultra-2"
+    },
+    {
+      "device_id": "apple-watch-ultra-2-orange-beige-trail-loop",
+      "orientation": "portrait",
+      "bundle_file": "apple-watch-ultra-2.bundle",
+      "model": "apple-watch-ultra-2"
+    },
+    {
+      "device_id": "apple-watch-ultra-2-orange-ocean-band",
+      "orientation": "portrait",
+      "bundle_file": "apple-watch-ultra-2.bundle",
+      "model": "apple-watch-ultra-2"
+    },
+    {
+      "device_id": "google-pixel-slate",
+      "orientation": "landscape",
+      "bundle_file": "google-pixel.bundle",
+      "model": "google-pixel"
+    },
+    {
+      "device_id": "google-pixel-slate",
+      "orientation": "portrait",
+      "bundle_file": "google-pixel.bundle",
+      "model": "google-pixel"
+    },
+    {
+      "device_id": "google-pixel-7-obsidian",
+      "orientation": "landscape",
+      "bundle_file": "google-pixel-7.bundle",
+      "model": "google-pixel-7"
+    },
+    {
+      "device_id": "google-pixel-7-lemongrass",
+      "orientation": "landscape",
+      "bundle_file": "google-pixel-7.bundle",
+      "model": "google-pixel-7"
+    },
+    {
+      "device_id": "google-pixel-7-obsidian",
+      "orientation": "portrait",
+      "bundle_file": "google-pixel-7.bundle",
+      "model": "google-pixel-7"
+    },
+    {
+      "device_id": "google-pixel-7-lemongrass",
+      "orientation": "portrait",
+      "bundle_file": "google-pixel-7.bundle",
+      "model": "google-pixel-7"
+    },
+    {
+      "device_id": "google-pixel-7-snow",
+      "orientation": "landscape",
+      "bundle_file": "google-pixel-7.bundle",
+      "model": "google-pixel-7"
+    },
+    {
+      "device_id": "google-pixel-7-snow",
+      "orientation": "portrait",
+      "bundle_file": "google-pixel-7.bundle",
+      "model": "google-pixel-7"
+    },
+    {
+      "device_id": "google-pixel-8-rose",
+      "orientation": "portrait",
+      "bundle_file": "google-pixel-8.bundle",
+      "model": "google-pixel-8"
+    },
+    {
+      "device_id": "google-pixel-8-obsidian",
+      "orientation": "landscape",
+      "bundle_file": "google-pixel-8.bundle",
+      "model": "google-pixel-8"
+    },
+    {
+      "device_id": "google-pixel-8-rose",
+      "orientation": "landscape",
+      "bundle_file": "google-pixel-8.bundle",
+      "model": "google-pixel-8"
+    },
+    {
+      "device_id": "google-pixel-8-hazel",
+      "orientation": "landscape",
+      "bundle_file": "google-pixel-8.bundle",
+      "model": "google-pixel-8"
+    },
+    {
+      "device_id": "google-pixel-8-obsidian",
+      "orientation": "portrait",
+      "bundle_file": "google-pixel-8.bundle",
+      "model": "google-pixel-8"
+    },
+    {
+      "device_id": "google-pixel-8-hazel",
+      "orientation": "portrait",
+      "bundle_file": "google-pixel-8.bundle",
+      "model": "google-pixel-8"
+    },
+    {
+      "device_id": "google-pixel-quite-black",
+      "orientation": "landscape",
+      "bundle_file": "google-pixel-quite.bundle",
+      "model": "google-pixel-quite"
+    },
+    {
+      "device_id": "google-pixel-quite-black",
+      "orientation": "portrait",
+      "bundle_file": "google-pixel-quite.bundle",
+      "model": "google-pixel-quite"
+    },
+    {
+      "device_id": "google-pixel-really-blue",
+      "orientation": "portrait",
+      "bundle_file": "google-pixel-really.bundle",
+      "model": "google-pixel-really"
+    },
+    {
+      "device_id": "google-pixel-really-blue",
+      "orientation": "landscape",
+      "bundle_file": "google-pixel-really.bundle",
+      "model": "google-pixel-really"
+    },
+    {
+      "device_id": "google-pixel-very-silver",
+      "orientation": "landscape",
+      "bundle_file": "google-pixel-very.bundle",
+      "model": "google-pixel-very"
+    },
+    {
+      "device_id": "google-pixel-very-silver",
+      "orientation": "portrait",
+      "bundle_file": "google-pixel-very.bundle",
+      "model": "google-pixel-very"
+    },
+    {
+      "device_id": "huawei-p-40-pro-plus",
+      "orientation": "portrait",
+      "bundle_file": "huawei-p-40-pro-plus.bundle",
+      "model": "huawei-p-40-pro-plus"
+    },
+    {
+      "device_id": "huawei-p-40-pro-plus",
+      "orientation": "landscape",
+      "bundle_file": "huawei-p-40-pro-plus.bundle",
+      "model": "huawei-p-40-pro-plus"
+    },
+    {
+      "device_id": "motorola-motoe-black",
+      "orientation": "portrait",
+      "bundle_file": "motorola-motoe.bundle",
+      "model": "motorola-motoe"
+    },
+    {
+      "device_id": "motorola-motoe-white",
+      "orientation": "portrait",
+      "bundle_file": "motorola-motoe.bundle",
+      "model": "motorola-motoe"
+    },
+    {
+      "device_id": "motorola-motoe-black",
+      "orientation": "landscape",
+      "bundle_file": "motorola-motoe.bundle",
+      "model": "motorola-motoe"
+    },
+    {
+      "device_id": "motorola-motoe-white",
+      "orientation": "landscape",
+      "bundle_file": "motorola-motoe.bundle",
+      "model": "motorola-motoe"
+    },
+    {
+      "device_id": "oneplus-oneplus8pro",
+      "orientation": "portrait",
+      "bundle_file": "oneplus-oneplus8pro.bundle",
+      "model": "oneplus-oneplus8pro"
+    },
+    {
+      "device_id": "oneplus-oneplus8pro",
+      "orientation": "landscape",
+      "bundle_file": "oneplus-oneplus8pro.bundle",
+      "model": "oneplus-oneplus8pro"
+    },
+    {
+      "device_id": "samsung-galaxy-s24-ultra",
+      "orientation": "right",
+      "bundle_file": "samsung-galaxy-s24.bundle",
+      "model": "samsung-galaxy-s24"
+    },
+    {
+      "device_id": "samsung-galaxy-s24-ultra",
+      "orientation": "left",
+      "bundle_file": "samsung-galaxy-s24.bundle",
+      "model": "samsung-galaxy-s24"
+    },
+    {
+      "device_id": "samsung-galaxy-s24-ultra",
+      "orientation": "landscape",
+      "bundle_file": "samsung-galaxy-s24.bundle",
+      "model": "samsung-galaxy-s24"
+    },
+    {
+      "device_id": "samsung-galaxy-s24-ultra",
+      "orientation": "portrait",
+      "bundle_file": "samsung-galaxy-s24.bundle",
+      "model": "samsung-galaxy-s24"
+    },
+    {
+      "device_id": "samsung-galaxy-watch-4-black",
+      "orientation": "landscape",
+      "bundle_file": "samsung-galaxy-watch-4.bundle",
+      "model": "samsung-galaxy-watch-4"
+    },
+    {
+      "device_id": "samsung-galaxy-watch-4-silver",
+      "orientation": "landscape",
+      "bundle_file": "samsung-galaxy-watch-4.bundle",
+      "model": "samsung-galaxy-watch-4"
+    },
+    {
+      "device_id": "samsung-galaxy-watch-4-black",
+      "orientation": "portrait",
+      "bundle_file": "samsung-galaxy-watch-4.bundle",
+      "model": "samsung-galaxy-watch-4"
+    },
+    {
+      "device_id": "samsung-galaxy-watch-4-silver",
+      "orientation": "portrait",
+      "bundle_file": "samsung-galaxy-watch-4.bundle",
+      "model": "samsung-galaxy-watch-4"
+    },
+    {
+      "device_id": "samsung-galaxy-watch-4-pink-gold",
+      "orientation": "portrait",
+      "bundle_file": "samsung-galaxy-watch-4-pink.bundle",
+      "model": "samsung-galaxy-watch-4-pink"
+    },
+    {
+      "device_id": "samsung-galaxy-watch-4-pink-gold",
+      "orientation": "landscape",
+      "bundle_file": "samsung-galaxy-watch-4-pink.bundle",
+      "model": "samsung-galaxy-watch-4-pink"
+    },
+    {
+      "device_id": "samsung-galaxys21-violet",
+      "orientation": "portrait",
+      "bundle_file": "samsung-galaxys21.bundle",
+      "model": "samsung-galaxys21"
+    },
+    {
+      "device_id": "samsung-galaxys21-violet",
+      "orientation": "landscape",
+      "bundle_file": "samsung-galaxys21.bundle",
+      "model": "samsung-galaxys21"
+    },
+    {
+      "device_id": "samsung-galaxys21-white",
+      "orientation": "portrait",
+      "bundle_file": "samsung-galaxys21.bundle",
+      "model": "samsung-galaxys21"
+    },
+    {
+      "device_id": "samsung-galaxys21-pink",
+      "orientation": "landscape",
+      "bundle_file": "samsung-galaxys21.bundle",
+      "model": "samsung-galaxys21"
+    },
+    {
+      "device_id": "samsung-galaxys21-black",
+      "orientation": "landscape",
+      "bundle_file": "samsung-galaxys21.bundle",
+      "model": "samsung-galaxys21"
+    },
+    {
+      "device_id": "samsung-galaxys21-black",
+      "orientation": "portrait",
+      "bundle_file": "samsung-galaxys21.bundle",
+      "model": "samsung-galaxys21"
+    },
+    {
+      "device_id": "samsung-galaxys21-pink",
+      "orientation": "portrait",
+      "bundle_file": "samsung-galaxys21.bundle",
+      "model": "samsung-galaxys21"
+    },
+    {
+      "device_id": "samsung-galaxys21-white",
+      "orientation": "landscape",
+      "bundle_file": "samsung-galaxys21.bundle",
+      "model": "samsung-galaxys21"
+    },
+    {
+      "device_id": "samsung-galaxys21plus-violet",
+      "orientation": "portrait",
+      "bundle_file": "samsung-galaxys21plus.bundle",
+      "model": "samsung-galaxys21plus"
+    },
+    {
+      "device_id": "samsung-galaxys21plus-silver",
+      "orientation": "landscape",
+      "bundle_file": "samsung-galaxys21plus.bundle",
+      "model": "samsung-galaxys21plus"
+    },
+    {
+      "device_id": "samsung-galaxys21plus-black",
+      "orientation": "portrait",
+      "bundle_file": "samsung-galaxys21plus.bundle",
+      "model": "samsung-galaxys21plus"
+    },
+    {
+      "device_id": "samsung-galaxys21plus-silver",
+      "orientation": "portrait",
+      "bundle_file": "samsung-galaxys21plus.bundle",
+      "model": "samsung-galaxys21plus"
+    },
+    {
+      "device_id": "samsung-galaxys21plus-violet",
+      "orientation": "landscape",
+      "bundle_file": "samsung-galaxys21plus.bundle",
+      "model": "samsung-galaxys21plus"
+    },
+    {
+      "device_id": "samsung-galaxys21plus-black",
+      "orientation": "landscape",
+      "bundle_file": "samsung-galaxys21plus.bundle",
+      "model": "samsung-galaxys21plus"
+    },
+    {
+      "device_id": "samsung-galaxys21ultra-silver",
+      "orientation": "landscape",
+      "bundle_file": "samsung-galaxys21ultra.bundle",
+      "model": "samsung-galaxys21ultra"
+    },
+    {
+      "device_id": "samsung-galaxys21ultra-silver",
+      "orientation": "portrait",
+      "bundle_file": "samsung-galaxys21ultra.bundle",
+      "model": "samsung-galaxys21ultra"
+    },
+    {
+      "device_id": "samsung-galaxys21ultra-black",
+      "orientation": "portrait",
+      "bundle_file": "samsung-galaxys21ultra.bundle",
+      "model": "samsung-galaxys21ultra"
+    },
+    {
+      "device_id": "samsung-galaxys21ultra-black",
+      "orientation": "landscape",
+      "bundle_file": "samsung-galaxys21ultra.bundle",
+      "model": "samsung-galaxys21ultra"
+    }
+  ]
+}
