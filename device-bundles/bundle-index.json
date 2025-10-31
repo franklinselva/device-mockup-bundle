@@ -2,50 +2,73 @@
   "version": 2,
   "groups": [
     {
-      "group_name": "ipad",
-      "bundle_file": "ipad.bundle",
+      "group_name": "samsung-galaxy-s24-ultra",
+      "bundle_file": "samsung-galaxy-s24-ultra.bundle",
       "device_count": 1,
       "devices": [
-        "apple-ipad-silver"
+        "samsung-galaxy-s24-ultra"
       ]
     },
     {
-      "group_name": "iphone-8-plus",
-      "bundle_file": "iphone-8-plus.bundle",
-      "device_count": 3,
+      "group_name": "google-pixel-slate",
+      "bundle_file": "google-pixel-slate.bundle",
+      "device_count": 1,
       "devices": [
-        "apple-iphone-8-plus-gold",
-        "apple-iphone-8-plus-silver",
-        "apple-iphone-8-plus-space-grey"
+        "google-pixel-slate"
       ]
     },
     {
-      "group_name": "iphone-11-pro-max",
-      "bundle_file": "iphone-11-pro-max.bundle",
+      "group_name": "samsung-galaxy-s20",
+      "bundle_file": "samsung-galaxy-s20.bundle",
+      "device_count": 6,
+      "devices": [
+        "samsung-galaxys20-cloudblue",
+        "samsung-galaxys20-cosmicgrey",
+        "samsung-galaxys20-pink",
+        "samsung-galaxys20plus-cloudblue",
+        "samsung-galaxys20plus-cosmicgrey",
+        "samsung-galaxys20plus-cosmicblack"
+      ]
+    },
+    {
+      "group_name": "ipad-air-13",
+      "bundle_file": "ipad-air-13.bundle",
       "device_count": 4,
       "devices": [
-        "apple-iphone-11-pro-max-gold",
-        "apple-iphone-11-pro-max-silver",
-        "apple-iphone-11-pro-max-space-grey",
-        "apple-iphone-11-pro-max-midnight-green"
+        "apple-ipad-air-13-m2-blue",
+        "apple-ipad-air-13-m2-stardust",
+        "apple-ipad-air-13-m2-space-gray",
+        "apple-ipad-air-13-m2-purple"
       ]
     },
     {
-      "group_name": "samsung-galaxy-watch-4",
-      "bundle_file": "samsung-galaxy-watch-4.bundle",
-      "device_count": 3,
+      "group_name": "iphone-14-pro",
+      "bundle_file": "iphone-14-pro.bundle",
+      "device_count": 4,
       "devices": [
-        "samsung-galaxy-watch-4-black",
-        "samsung-galaxy-watch-4-pink-gold",
-        "samsung-galaxy-watch-4-silver"
+        "apple-iphone14pro-deeppurple",
+        "apple-iphone14pro-gold",
+        "apple-iphone14pro-silver",
+        "apple-iphone14pro-spaceblack"
       ]
     },
     {
-      "group_name": "ipad-air-5",
-      "bundle_file": "ipad-air-5.bundle",
+      "group_name": "iphone-15-pro-max",
+      "bundle_file": "iphone-15-pro-max.bundle",
+      "device_count": 4,
+      "devices": [
+        "apple-iphone-15-pro-max-black-titanium",
+        "apple-iphone-15-pro-max-white-titanium",
+        "apple-iphone-15-pro-max-blue-titanium",
+        "apple-iphone-15-pro-max-natural-titanium"
+      ]
+    },
+    {
+      "group_name": "one-plus-8-pro",
+      "bundle_file": "one-plus-8-pro.bundle",
       "device_count": 1,
       "devices": [
-        "apple-ipadair5-spacegrey"
+        "oneplus-oneplus8pro"
       ]
     },
     {
@@ -59,149 +82,22 @@
       ]
     },
     {
-      "group_name": "samsung-tv-es8000",
-      "bundle_file": "samsung-tv-es8000.bundle",
-      "device_count": 1,
-      "devices": [
-        "samsung-es8000"
-      ]
-    },
-    {
-      "group_name": "apple-watch-series-8-45mm",
-      "bundle_file": "apple-watch-series-8-45mm.bundle",
-      "device_count": 6,
-      "devices": [
-        "apple-applewatch45mm-goldstainlesssteel",
-        "apple-applewatch45mm-graphitestainlesssteel",
-        "apple-applewatch45mm-midnightaluminum",
-        "apple-applewatch45mm-silveraluminum",
-        "apple-applewatch45mm-silverstainlesssteel",
-        "apple-applewatch45mm-starlightaluminum"
-      ]
-    },
-    {
-      "group_name": "galaxy-note-5",
-      "bundle_file": "galaxy-note-5.bundle",
-      "device_count": 5,
-      "devices": [
-        "samsung-galaxynote5-black",
-        "samsung-galaxynote5-gold",
-        "samsung-galaxynote5-pink",
-        "samsung-galaxynote5-silvertitanium",
-        "samsung-galaxynote5-white"
-      ]
-    },
-    {
-      "group_name": "lg-tv-55lw5600",
-      "bundle_file": "lg-tv-55lw5600.bundle",
-      "device_count": 1,
-      "devices": [
-        "lg-55lw5600"
-      ]
-    },
-    {
-      "group_name": "macbook-pro-16",
-      "bundle_file": "macbook-pro-16.bundle",
-      "device_count": 1,
-      "devices": [
-        "apple-macbookpro16"
-      ]
-    },
-    {
-      "group_name": "ipad-mini",
-      "bundle_file": "ipad-mini.bundle",
-      "device_count": 1,
-      "devices": [
-        "apple-ipadmini-starlight"
-      ]
-    },
-    {
-      "group_name": "iphone-13-pro",
-      "bundle_file": "iphone-13-pro.bundle",
-      "device_count": 4,
-      "devices": [
-        "apple-iphone13pro-gold",
-        "apple-iphone13pro-graphite",
-        "apple-iphone13pro-sierrablue",
-        "apple-iphone13pro-silver"
-      ]
-    },
-    {
-      "group_name": "iphone-14",
-      "bundle_file": "iphone-14.bundle",
-      "device_count": 5,
-      "devices": [
-        "apple-iphone14-blue",
-        "apple-iphone14-midnight",
-        "apple-iphone14-purple",
-        "apple-iphone14-red",
-        "apple-iphone14-starlight"
-      ]
-    },
-    {
-      "group_name": "galaxy-s20",
-      "bundle_file": "galaxy-s20.bundle",
+      "group_name": "samsung-galaxy-watch-4",
+      "bundle_file": "samsung-galaxy-watch-4.bundle",
       "device_count": 3,
       "devices": [
-        "samsung-galaxys20-cloudblue",
-        "samsung-galaxys20-cosmicgrey",
-        "samsung-galaxys20-pink"
+        "samsung-galaxy-watch-4-black",
+        "samsung-galaxy-watch-4-pink-gold",
+        "samsung-galaxy-watch-4-silver"
       ]
     },
     {
-      "group_name": "dell-xps-15",
-      "bundle_file": "dell-xps-15.bundle",
-      "device_count": 1,
+      "group_name": "motorola-moto-e",
+      "bundle_file": "motorola-moto-e.bundle",
+      "device_count": 2,
       "devices": [
-        "dell-xps15"
-      ]
-    },
-    {
-      "group_name": "galaxy-s20-plus",
-      "bundle_file": "galaxy-s20-plus.bundle",
-      "device_count": 3,
-      "devices": [
-        "samsung-galaxys20plus-cloudblue",
-        "samsung-galaxys20plus-cosmicgrey",
-        "samsung-galaxys20plus-cosmicblack"
-      ]
-    },
-    {
-      "group_name": "galaxy-s21",
-      "bundle_file": "galaxy-s21.bundle",
-      "device_count": 4,
-      "devices": [
-        "samsung-galaxys21-black",
-        "samsung-galaxys21-pink",
-        "samsung-galaxys21-violet",
-        "samsung-galaxys21-white"
-      ]
-    },
-    {
-      "group_name": "motorola-moto-g",
-      "bundle_file": "motorola-moto-g.bundle",
-      "device_count": 1,
-      "devices": [
-        "motorola-motog"
-      ]
-    },
-    {
-      "group_name": "iphone-14-pro-max",
-      "bundle_file": "iphone-14-pro-max.bundle",
-      "device_count": 4,
-      "devices": [
-        "apple-iphone14promax-deeppurple",
-        "apple-iphone14promax-gold",
-        "apple-iphone14promax-silver",
-        "apple-iphone14promax-spaceblack"
-      ]
-    },
-    {
-      "group_name": "microsoft-surface-pro-4",
-      "bundle_file": "microsoft-surface-pro-4.bundle",
-      "device_count": 1,
-      "devices": [
-        "microsoft-surfacepro4"
+        "motorola-motoe-black",
+        "motorola-motoe-white"
       ]
     },
     {
@@ -218,23 +114,161 @@
       ]
     },
     {
-      "group_name": "galaxy-s21-ultra",
-      "bundle_file": "galaxy-s21-ultra.bundle",
-      "device_count": 2,
+      "group_name": "iphone-air",
+      "bundle_file": "iphone-air.bundle",
+      "device_count": 4,
       "devices": [
-        "samsung-galaxys21ultra-black",
-        "samsung-galaxys21ultra-silver"
+        "apple-iphone-air-cloud-white",
+        "apple-iphone-air-sky-blue",
+        "apple-iphone-air-space-black",
+        "apple-iphone-air-light-gold"
       ]
     },
     {
-      "group_name": "iphone-13-pro-max",
-      "bundle_file": "iphone-13-pro-max.bundle",
+      "group_name": "iphone-17-pro",
+      "bundle_file": "iphone-17-pro.bundle",
+      "device_count": 3,
+      "devices": [
+        "apple-iphone-17-pro-cosmic-orange",
+        "apple-iphone-17-pro-silver",
+        "apple-iphone-17-pro-deep-blue"
+      ]
+    },
+    {
+      "group_name": "iphone-14-pro-max",
+      "bundle_file": "iphone-14-pro-max.bundle",
       "device_count": 4,
       "devices": [
-        "apple-iphone13promax-gold",
-        "apple-iphone13promax-graphite",
-        "apple-iphone13promax-sierrablue",
-        "apple-iphone13promax-silver"
+        "apple-iphone14promax-deeppurple",
+        "apple-iphone14promax-gold",
+        "apple-iphone14promax-silver",
+        "apple-iphone14promax-spaceblack"
+      ]
+    },
+    {
+      "group_name": "apple-watch-series-5-40mm",
+      "bundle_file": "apple-watch-series-5-40mm.bundle",
+      "device_count": 3,
+      "devices": [
+        "apple-watch-series-5-40-mm-space-grey-aluminum-black-closed",
+        "apple-watch-series-5-40-mm-gold-aluminum-pink-sand-closed",
+        "apple-watch-series-5-40-mm-white-ceramic-white-closed"
+      ]
+    },
+    {
+      "group_name": "iphone-se",
+      "bundle_file": "iphone-se.bundle",
+      "device_count": 3,
+      "devices": [
+        "apple-iphone-se-black",
+        "apple-iphone-se-red",
+        "apple-iphone-se-white"
+      ]
+    },
+    {
+      "group_name": "samsung-galaxy-s-duos",
+      "bundle_file": "samsung-galaxy-s-duos.bundle",
+      "device_count": 1,
+      "devices": [
+        "samsung-galaxysduos"
+      ]
+    },
+    {
+      "group_name": "samsung-galaxy-note-5",
+      "bundle_file": "samsung-galaxy-note-5.bundle",
+      "device_count": 5,
+      "devices": [
+        "samsung-galaxynote5-black",
+        "samsung-galaxynote5-gold",
+        "samsung-galaxynote5-pink",
+        "samsung-galaxynote5-silvertitanium",
+        "samsung-galaxynote5-white"
+      ]
+    },
+    {
+      "group_name": "microsoft-surface-book",
+      "bundle_file": "microsoft-surface-book.bundle",
+      "device_count": 1,
+      "devices": [
+        "microsoft-surfacebook"
+      ]
+    },
+    {
+      "group_name": "iphone-8-plus",
+      "bundle_file": "iphone-8-plus.bundle",
+      "device_count": 3,
+      "devices": [
+        "apple-iphone-8-plus-gold",
+        "apple-iphone-8-plus-silver",
+        "apple-iphone-8-plus-space-grey"
+      ]
+    },
+    {
+      "group_name": "ipad-pro-129-inch",
+      "bundle_file": "ipad-pro-129-inch.bundle",
+      "device_count": 1,
+      "devices": [
+        "apple-ipadpro13-spacegrey"
+      ]
+    },
+    {
+      "group_name": "dell-xps-15",
+      "bundle_file": "dell-xps-15.bundle",
+      "device_count": 1,
+      "devices": [
+        "dell-xps15"
+      ]
+    },
+    {
+      "group_name": "apple-watch-series-8-45mm",
+      "bundle_file": "apple-watch-series-8-45mm.bundle",
+      "device_count": 6,
+      "devices": [
+        "apple-applewatch45mm-goldstainlesssteel",
+        "apple-applewatch45mm-graphitestainlesssteel",
+        "apple-applewatch45mm-midnightaluminum",
+        "apple-applewatch45mm-silveraluminum",
+        "apple-applewatch45mm-silverstainlesssteel",
+        "apple-applewatch45mm-starlightaluminum"
+      ]
+    },
+    {
+      "group_name": "iphone-16-pro-max",
+      "bundle_file": "iphone-16-pro-max.bundle",
+      "device_count": 4,
+      "devices": [
+        "apple-iphone-16-pro-max-natural-titanium",
+        "apple-iphone-16-pro-max-black-titanium",
+        "apple-iphone-16-pro-max-white-titanium",
+        "apple-iphone-16-pro-max-desert-titanium"
+      ]
+    },
+    {
+      "group_name": "macbook-air-13",
+      "bundle_file": "macbook-air-13.bundle",
+      "device_count": 1,
+      "devices": [
+        "apple-macbookair13"
+      ]
+    },
+    {
+      "group_name": "imac-2013",
+      "bundle_file": "imac-2013.bundle",
+      "device_count": 1,
+      "devices": [
+        "apple-imac2013"
+      ]
+    },
+    {
+      "group_name": "iphone-14",
+      "bundle_file": "iphone-14.bundle",
+      "device_count": 5,
+      "devices": [
+        "apple-iphone14-blue",
+        "apple-iphone14-midnight",
+        "apple-iphone14-purple",
+        "apple-iphone14-red",
+        "apple-iphone14-starlight"
       ]
     },
     {
@@ -250,6 +284,113 @@
       ]
     },
     {
+      "group_name": "iphone-16-plus",
+      "bundle_file": "iphone-16-plus.bundle",
+      "device_count": 5,
+      "devices": [
+        "apple-iphone-16-plus-teal",
+        "apple-iphone-16-plus-ultramarine",
+        "apple-iphone-16-plus-black",
+        "apple-iphone-16-plus-white",
+        "apple-iphone-16-plus-pink"
+      ]
+    },
+    {
+      "group_name": "ipad-pro-11-inch",
+      "bundle_file": "ipad-pro-11-inch.bundle",
+      "device_count": 1,
+      "devices": [
+        "apple-ipadpro11-spacegrey"
+      ]
+    },
+    {
+      "group_name": "samsung-galaxy-s21-ultra",
+      "bundle_file": "samsung-galaxy-s21-ultra.bundle",
+      "device_count": 2,
+      "devices": [
+        "samsung-galaxys21ultra-black",
+        "samsung-galaxys21ultra-silver"
+      ]
+    },
+    {
+      "group_name": "samsung-tv-es8000",
+      "bundle_file": "samsung-tv-es8000.bundle",
+      "device_count": 1,
+      "devices": [
+        "samsung-es8000"
+      ]
+    },
+    {
+      "group_name": "nokia-3310",
+      "bundle_file": "nokia-3310.bundle",
+      "device_count": 1,
+      "devices": [
+        "nokia3310"
+      ]
+    },
+    {
+      "group_name": "iphone-14-plus",
+      "bundle_file": "iphone-14-plus.bundle",
+      "device_count": 5,
+      "devices": [
+        "apple-iphone14plus-blue",
+        "apple-iphone14plus-midnight",
+        "apple-iphone14plus-purple",
+        "apple-iphone14plus-red",
+        "apple-iphone14plus-starlight"
+      ]
+    },
+    {
+      "group_name": "iphone-17",
+      "bundle_file": "iphone-17.bundle",
+      "device_count": 5,
+      "devices": [
+        "apple-iphone-17-white",
+        "apple-iphone-17-sage",
+        "apple-iphone-17-mist-blue",
+        "apple-iphone-17-lavender",
+        "apple-iphone-17-black"
+      ]
+    },
+    {
+      "group_name": "ipad-mini",
+      "bundle_file": "ipad-mini.bundle",
+      "device_count": 2,
+      "devices": [
+        "apple-ipadmini-starlight",
+        "apple-ipad-mini-starlight"
+      ]
+    },
+    {
+      "group_name": "ipad-pro-11",
+      "bundle_file": "ipad-pro-11.bundle",
+      "device_count": 2,
+      "devices": [
+        "apple-ipad-pro-11-m4-space-gray",
+        "apple-ipad-pro-11-m4-silver"
+      ]
+    },
+    {
+      "group_name": "iphone-16",
+      "bundle_file": "iphone-16.bundle",
+      "device_count": 5,
+      "devices": [
+        "apple-iphone-16-white",
+        "apple-iphone-16-teal",
+        "apple-iphone-16-ultramarine",
+        "apple-iphone-16-black",
+        "apple-iphone-16-pink"
+      ]
+    },
+    {
+      "group_name": "imac-2015",
+      "bundle_file": "imac-2015.bundle",
+      "device_count": 1,
+      "devices": [
+        "apple-imac2015"
+      ]
+    },
+    {
       "group_name": "macbook",
       "bundle_file": "macbook.bundle",
       "device_count": 2,
@@ -259,13 +400,71 @@
       ]
     },
     {
-      "group_name": "apple-watch-series-5-40mm",
-      "bundle_file": "apple-watch-series-5-40mm.bundle",
+      "group_name": "google-pixel-5",
+      "bundle_file": "google-pixel-5.bundle",
+      "device_count": 2,
+      "devices": [
+        "google-pixel5-justblack",
+        "google-pixel5-sortasage"
+      ]
+    },
+    {
+      "group_name": "iphone-16-pro",
+      "bundle_file": "iphone-16-pro.bundle",
+      "device_count": 4,
+      "devices": [
+        "apple-iphone-16-pro-natural-titanium",
+        "apple-iphone-16-pro-desert-titanium",
+        "apple-iphone-16-pro-white-titanium",
+        "apple-iphone-16-pro-black-titanium"
+      ]
+    },
+    {
+      "group_name": "microsoft-surface-pro-3",
+      "bundle_file": "microsoft-surface-pro-3.bundle",
+      "device_count": 1,
+      "devices": [
+        "microsoft-surfacepro3"
+      ]
+    },
+    {
+      "group_name": "google-pixel-8",
+      "bundle_file": "google-pixel-8.bundle",
       "device_count": 3,
       "devices": [
-        "apple-watch-series-5-40-mm-space-grey-aluminum-black-closed",
-        "apple-watch-series-5-40-mm-gold-aluminum-pink-sand-closed",
-        "apple-watch-series-5-40-mm-white-ceramic-white-closed"
+        "google-pixel-8-rose",
+        "google-pixel-8-hazel",
+        "google-pixel-8-obsidian"
+      ]
+    },
+    {
+      "group_name": "iphone-17-pro-max",
+      "bundle_file": "iphone-17-pro-max.bundle",
+      "device_count": 3,
+      "devices": [
+        "apple-iphone-17-pro-max-cosmic-orange",
+        "apple-iphone-17-pro-max-silver",
+        "apple-iphone-17-pro-max-deep-blue"
+      ]
+    },
+    {
+      "group_name": "iphone-15-plus",
+      "bundle_file": "iphone-15-plus.bundle",
+      "device_count": 5,
+      "devices": [
+        "apple-iphone-15-plus-black",
+        "apple-iphone-15-plus-blue",
+        "apple-iphone-15-plus-green",
+        "apple-iphone-15-plus-yellow",
+        "apple-iphone-15-plus-pink"
+      ]
+    },
+    {
+      "group_name": "ipad-air-5",
+      "bundle_file": "ipad-air-5.bundle",
+      "device_count": 1,
+      "devices": [
+        "apple-ipadair5-spacegrey"
       ]
     },
     {
@@ -280,97 +479,148 @@
       ]
     },
     {
-      "group_name": "imac",
-      "bundle_file": "imac.bundle",
-      "device_count": 1,
+      "group_name": "samsung-galaxy-s20-ultra",
+      "bundle_file": "samsung-galaxy-s20-ultra.bundle",
+      "device_count": 2,
       "devices": [
-        "apple-imac2015retina"
+        "samsung-galaxys20ultra-cosmicblack",
+        "samsung-galaxys20ultra-cosmicgrey"
       ]
     },
     {
-      "group_name": "nokia-3310",
-      "bundle_file": "nokia-3310.bundle",
+      "group_name": "macbook-pro-16",
+      "bundle_file": "macbook-pro-16.bundle",
       "device_count": 1,
       "devices": [
-        "nokia3310"
+        "apple-macbookpro16"
       ]
     },
     {
-      "group_name": "dell-xps-13",
-      "bundle_file": "dell-xps-13.bundle",
-      "device_count": 1,
+      "group_name": "samsung-galaxy-y",
+      "bundle_file": "samsung-galaxy-y.bundle",
+      "device_count": 2,
       "devices": [
-        "dell-xps13"
+        "samsung-galaxyy-black",
+        "samsung-galaxyy-white"
       ]
     },
     {
-      "group_name": "google-pixel-4",
-      "bundle_file": "google-pixel-4.bundle",
+      "group_name": "huawei-p40-pro",
+      "bundle_file": "huawei-p40-pro.bundle",
+      "device_count": 1,
+      "devices": [
+        "huawei-p-40-pro-plus"
+      ]
+    },
+    {
+      "group_name": "macbook-pro-14",
+      "bundle_file": "macbook-pro-14.bundle",
+      "device_count": 1,
+      "devices": [
+        "apple-macbookpro14"
+      ]
+    },
+    {
+      "group_name": "ipad-air-11",
+      "bundle_file": "ipad-air-11.bundle",
+      "device_count": 4,
+      "devices": [
+        "apple-ipad-air-11-m2-purple",
+        "apple-ipad-air-11-m2-stardust",
+        "apple-ipad-air-11-m2-space-gray",
+        "apple-ipad-air-11-m2-blue"
+      ]
+    },
+    {
+      "group_name": "ipad-pro-13",
+      "bundle_file": "ipad-pro-13.bundle",
+      "device_count": 2,
+      "devices": [
+        "apple-ipad-pro-13-m4-silver",
+        "apple-ipad-pro-13-m4-space-gray"
+      ]
+    },
+    {
+      "group_name": "samsung-galaxy-s21-5g",
+      "bundle_file": "samsung-galaxy-s21-5g.bundle",
+      "device_count": 7,
+      "devices": [
+        "samsung-galaxys21-black",
+        "samsung-galaxys21-pink",
+        "samsung-galaxys21-violet",
+        "samsung-galaxys21-white",
+        "samsung-galaxys21plus-black",
+        "samsung-galaxys21plus-silver",
+        "samsung-galaxys21plus-violet"
+      ]
+    },
+    {
+      "group_name": "microsoft-surface-pro-4",
+      "bundle_file": "microsoft-surface-pro-4.bundle",
+      "device_count": 1,
+      "devices": [
+        "microsoft-surfacepro4"
+      ]
+    },
+    {
+      "group_name": "google-pixel",
+      "bundle_file": "google-pixel.bundle",
       "device_count": 3,
       "devices": [
-        "google-pixel4-clearlywhite",
-        "google-pixel4-justblack",
-        "google-pixel4-ohsoorange"
+        "google-pixel-quite-black",
+        "google-pixel-really-blue",
+        "google-pixel-very-silver"
       ]
     },
     {
-      "group_name": "ipad-pro-12-9-inch",
-      "bundle_file": "ipad-pro-12-9-inch.bundle",
+      "group_name": "iphone-15-pro",
+      "bundle_file": "iphone-15-pro.bundle",
+      "device_count": 4,
+      "devices": [
+        "apple-iphone-15-pro-black-titanium",
+        "apple-iphone-15-pro-white-titanium",
+        "apple-iphone-15-pro-blue-titanium",
+        "apple-iphone-15-pro-natural-titanium"
+      ]
+    },
+    {
+      "group_name": "motorola-moto-g",
+      "bundle_file": "motorola-moto-g.bundle",
       "device_count": 1,
       "devices": [
-        "apple-ipadpro13-spacegrey"
+        "motorola-motog"
       ]
     },
     {
-      "group_name": "ipad-pro-11-inch",
-      "bundle_file": "ipad-pro-11-inch.bundle",
+      "group_name": "iphone-15",
+      "bundle_file": "iphone-15.bundle",
+      "device_count": 5,
+      "devices": [
+        "apple-iphone-15-black",
+        "apple-iphone-15-blue",
+        "apple-iphone-15-green",
+        "apple-iphone-15-yellow",
+        "apple-iphone-15-pink"
+      ]
+    },
+    {
+      "group_name": "lg-tv-55lw5600",
+      "bundle_file": "lg-tv-55lw5600.bundle",
       "device_count": 1,
       "devices": [
-        "apple-ipadpro11-spacegrey"
+        "lg-55lw5600"
       ]
     },
     {
-      "group_name": "macbook-air-13",
-      "bundle_file": "macbook-air-13.bundle",
-      "device_count": 1,
+      "group_name": "iphone-13",
+      "bundle_file": "iphone-13.bundle",
+      "device_count": 5,
       "devices": [
-        "apple-macbookair13"
-      ]
-    },
-    {
-      "group_name": "apple-watch-ultra-2",
-      "bundle_file": "apple-watch-ultra-2.bundle",
-      "device_count": 3,
-      "devices": [
-        "apple-watch-ultra-2-orange-ocean-band",
-        "apple-watch-ultra-2-blue-alpine-loop",
-        "apple-watch-ultra-2-orange-beige-trail-loop"
-      ]
-    },
-    {
-      "group_name": "microsoft-surface-book",
-      "bundle_file": "microsoft-surface-book.bundle",
-      "device_count": 1,
-      "devices": [
-        "microsoft-surfacebook"
-      ]
-    },
-    {
-      "group_name": "galaxy-s-duos",
-      "bundle_file": "galaxy-s-duos.bundle",
-      "device_count": 1,
-      "devices": [
-        "samsung-galaxysduos"
-      ]
-    },
-    {
-      "group_name": "iphone-8",
-      "bundle_file": "iphone-8.bundle",
-      "device_count": 3,
-      "devices": [
-        "apple-iphone-8-gold",
-        "apple-iphone-8-silver",
-        "apple-iphone-8-space-grey"
+        "apple-iphone13-blue",
+        "apple-iphone13-midnight",
+        "apple-iphone13-pink",
+        "apple-iphone13-red",
+        "apple-iphone13-starlight"
       ]
     },
     {
@@ -387,8 +637,8 @@
       ]
     },
     {
-      "group_name": "galaxy-s4",
-      "bundle_file": "galaxy-s4.bundle",
+      "group_name": "samsung-galaxy-s4",
+      "bundle_file": "samsung-galaxy-s4.bundle",
       "device_count": 2,
       "devices": [
         "samsung-galaxys4-black",
@@ -396,11 +646,22 @@
       ]
     },
     {
-      "group_name": "macbook-pro-14",
-      "bundle_file": "macbook-pro-14.bundle",
+      "group_name": "iphone-13-pro-max",
+      "bundle_file": "iphone-13-pro-max.bundle",
+      "device_count": 4,
+      "devices": [
+        "apple-iphone13promax-gold",
+        "apple-iphone13promax-graphite",
+        "apple-iphone13promax-sierrablue",
+        "apple-iphone13promax-silver"
+      ]
+    },
+    {
+      "group_name": "imac-retina-2015",
+      "bundle_file": "imac-retina-2015.bundle",
       "device_count": 1,
       "devices": [
-        "apple-macbookpro14"
+        "apple-imac2015retina"
       ]
     },
     {
@@ -414,153 +675,11 @@
       ]
     },
     {
-      "group_name": "iphone-15-pro",
-      "bundle_file": "iphone-15-pro.bundle",
-      "device_count": 4,
-      "devices": [
-        "apple-iphone-15-pro-black-titanium",
-        "apple-iphone-15-pro-white-titanium",
-        "apple-iphone-15-pro-blue-titanium",
-        "apple-iphone-15-pro-natural-titanium"
-      ]
-    },
-    {
-      "group_name": "galaxy-s20-ultra",
-      "bundle_file": "galaxy-s20-ultra.bundle",
-      "device_count": 2,
-      "devices": [
-        "samsung-galaxys20ultra-cosmicblack",
-        "samsung-galaxys20ultra-cosmicgrey"
-      ]
-    },
-    {
-      "group_name": "imac-2013",
-      "bundle_file": "imac-2013.bundle",
+      "group_name": "ipad",
+      "bundle_file": "ipad.bundle",
       "device_count": 1,
       "devices": [
-        "apple-imac2013"
-      ]
-    },
-    {
-      "group_name": "iphone-14-plus",
-      "bundle_file": "iphone-14-plus.bundle",
-      "device_count": 5,
-      "devices": [
-        "apple-iphone14plus-blue",
-        "apple-iphone14plus-midnight",
-        "apple-iphone14plus-purple",
-        "apple-iphone14plus-red",
-        "apple-iphone14plus-starlight"
-      ]
-    },
-    {
-      "group_name": "iphone-se",
-      "bundle_file": "iphone-se.bundle",
-      "device_count": 3,
-      "devices": [
-        "apple-iphone-se-black",
-        "apple-iphone-se-red",
-        "apple-iphone-se-white"
-      ]
-    },
-    {
-      "group_name": "iphone-15-pro-max",
-      "bundle_file": "iphone-15-pro-max.bundle",
-      "device_count": 4,
-      "devices": [
-        "apple-iphone-15-pro-max-black-titanium",
-        "apple-iphone-15-pro-max-white-titanium",
-        "apple-iphone-15-pro-max-blue-titanium",
-        "apple-iphone-15-pro-max-natural-titanium"
-      ]
-    },
-    {
-      "group_name": "microsoft-surface-pro-3",
-      "bundle_file": "microsoft-surface-pro-3.bundle",
-      "device_count": 1,
-      "devices": [
-        "microsoft-surfacepro3"
-      ]
-    },
-    {
-      "group_name": "huawei-p40-pro",
-      "bundle_file": "huawei-p40-pro.bundle",
-      "device_count": 1,
-      "devices": [
-        "huawei-p-40-pro-plus"
-      ]
-    },
-    {
-      "group_name": "google-pixel",
-      "bundle_file": "google-pixel.bundle",
-      "device_count": 4,
-      "devices": [
-        "google-pixel-quite-black",
-        "google-pixel-really-blue",
-        "google-pixel-very-silver",
-        "google-pixel-slate"
-      ]
-    },
-    {
-      "group_name": "galaxy-s24-ultra",
-      "bundle_file": "galaxy-s24-ultra.bundle",
-      "device_count": 1,
-      "devices": [
-        "samsung-galaxy-s24-ultra"
-      ]
-    },
-    {
-      "group_name": "samsung-tv-d8000",
-      "bundle_file": "samsung-tv-d8000.bundle",
-      "device_count": 1,
-      "devices": [
-        "samsung-d8000"
-      ]
-    },
-    {
-      "group_name": "one-plus-8-pro",
-      "bundle_file": "one-plus-8-pro.bundle",
-      "device_count": 1,
-      "devices": [
-        "oneplus-oneplus8pro"
-      ]
-    },
-    {
-      "group_name": "motorola-moto-e",
-      "bundle_file": "motorola-moto-e.bundle",
-      "device_count": 2,
-      "devices": [
-        "motorola-motoe-black",
-        "motorola-motoe-white"
-      ]
-    },
-    {
-      "group_name": "apple-watch-ultra",
-      "bundle_file": "apple-watch-ultra.bundle",
-      "device_count": 1,
-      "devices": [
-        "apple-applewatchultra"
-      ]
-    },
-    {
-      "group_name": "iphone-13",
-      "bundle_file": "iphone-13.bundle",
-      "device_count": 5,
-      "devices": [
-        "apple-iphone13-blue",
-        "apple-iphone13-midnight",
-        "apple-iphone13-pink",
-        "apple-iphone13-red",
-        "apple-iphone13-starlight"
-      ]
-    },
-    {
-      "group_name": "galaxy-y",
-      "bundle_file": "galaxy-y.bundle",
-      "device_count": 2,
-      "devices": [
-        "samsung-galaxyy-black",
-        "samsung-galaxyy-white"
+        "apple-ipad-silver"
       ]
     },
     {
@@ -572,251 +691,301 @@
       ]
     },
     {
-      "group_name": "iphone-14-pro",
-      "bundle_file": "iphone-14-pro.bundle",
-      "device_count": 4,
-      "devices": [
-        "apple-iphone14pro-deeppurple",
-        "apple-iphone14pro-gold",
-        "apple-iphone14pro-silver",
-        "apple-iphone14pro-spaceblack"
-      ]
-    },
-    {
-      "group_name": "imac-2015",
-      "bundle_file": "imac-2015.bundle",
+      "group_name": "samsung-tv-d8000",
+      "bundle_file": "samsung-tv-d8000.bundle",
       "device_count": 1,
       "devices": [
-        "apple-imac2015"
+        "samsung-d8000"
       ]
     },
     {
-      "group_name": "galaxy-s21-plus",
-      "bundle_file": "galaxy-s21-plus.bundle",
+      "group_name": "apple-watch-ultra",
+      "bundle_file": "apple-watch-ultra.bundle",
+      "device_count": 1,
+      "devices": [
+        "apple-applewatchultra"
+      ]
+    },
+    {
+      "group_name": "iphone-11-pro-max",
+      "bundle_file": "iphone-11-pro-max.bundle",
+      "device_count": 4,
+      "devices": [
+        "apple-iphone-11-pro-max-gold",
+        "apple-iphone-11-pro-max-silver",
+        "apple-iphone-11-pro-max-space-grey",
+        "apple-iphone-11-pro-max-midnight-green"
+      ]
+    },
+    {
+      "group_name": "iphone-13-pro",
+      "bundle_file": "iphone-13-pro.bundle",
+      "device_count": 4,
+      "devices": [
+        "apple-iphone13pro-gold",
+        "apple-iphone13pro-graphite",
+        "apple-iphone13pro-sierrablue",
+        "apple-iphone13pro-silver"
+      ]
+    },
+    {
+      "group_name": "iphone-8",
+      "bundle_file": "iphone-8.bundle",
       "device_count": 3,
       "devices": [
-        "samsung-galaxys21plus-black",
-        "samsung-galaxys21plus-silver",
-        "samsung-galaxys21plus-violet"
+        "apple-iphone-8-gold",
+        "apple-iphone-8-silver",
+        "apple-iphone-8-space-grey"
       ]
     },
     {
-      "group_name": "google-pixel-8",
-      "bundle_file": "google-pixel-8.bundle",
+      "group_name": "google-pixel-4",
+      "bundle_file": "google-pixel-4.bundle",
       "device_count": 3,
       "devices": [
-        "google-pixel-8-rose",
-        "google-pixel-8-hazel",
-        "google-pixel-8-obsidian"
+        "google-pixel4-clearlywhite",
+        "google-pixel4-justblack",
+        "google-pixel4-ohsoorange"
       ]
     },
     {
-      "group_name": "iphone-15",
-      "bundle_file": "iphone-15.bundle",
-      "device_count": 5,
+      "group_name": "apple-watch-ultra-2",
+      "bundle_file": "apple-watch-ultra-2.bundle",
+      "device_count": 3,
       "devices": [
-        "apple-iphone-15-black",
-        "apple-iphone-15-blue",
-        "apple-iphone-15-green",
-        "apple-iphone-15-yellow",
-        "apple-iphone-15-pink"
+        "apple-watch-ultra-2-orange-ocean-band",
+        "apple-watch-ultra-2-blue-alpine-loop",
+        "apple-watch-ultra-2-orange-beige-trail-loop"
       ]
     },
     {
-      "group_name": "google-pixel-5",
-      "bundle_file": "google-pixel-5.bundle",
-      "device_count": 2,
+      "group_name": "dell-xps-13",
+      "bundle_file": "dell-xps-13.bundle",
+      "device_count": 1,
       "devices": [
-        "google-pixel5-justblack",
-        "google-pixel5-sortasage"
-      ]
-    },
-    {
-      "group_name": "iphone-15-plus",
-      "bundle_file": "iphone-15-plus.bundle",
-      "device_count": 5,
-      "devices": [
-        "apple-iphone-15-plus-black",
-        "apple-iphone-15-plus-blue",
-        "apple-iphone-15-plus-green",
-        "apple-iphone-15-plus-yellow",
-        "apple-iphone-15-plus-pink"
+        "dell-xps13"
       ]
     }
   ],
   "device_lookup": {
-    "apple-iphone-15-pro-max-natural-titanium": "iphone-15-pro-max",
-    "samsung-galaxynote5-white": "galaxy-note-5",
-    "apple-iphone-15-plus-pink": "iphone-15-plus",
-    "apple-iphone-8-silver": "iphone-8",
-    "samsung-galaxys20-cosmicgrey": "galaxy-s20",
-    "samsung-galaxys20plus-cosmicblack": "galaxy-s20-plus",
-    "samsung-galaxys21-black": "galaxy-s21",
-    "oneplus-oneplus8pro": "one-plus-8-pro",
-    "samsung-galaxys21plus-black": "galaxy-s21-plus",
-    "apple-applewatch45mm-goldstainlesssteel": "apple-watch-series-8-45mm",
-    "apple-iphone-15-pro-max-white-titanium": "iphone-15-pro-max",
-    "apple-iphone14promax-spaceblack": "iphone-14-pro-max",
-    "apple-applewatch41mm-graphitestainlesssteel": "apple-watch-series-8-41mm",
-    "lg-55lw5600": "lg-tv-55lw5600",
-    "google-pixel-7-snow": "google-pixel-7",
-    "apple-iphone-15-plus-blue": "iphone-15-plus",
-    "apple-iphone13-blue": "iphone-13",
-    "apple-watch-series-5-40-mm-white-ceramic-white-closed": "apple-watch-series-5-40mm",
-    "samsung-galaxy-watch-4-pink-gold": "samsung-galaxy-watch-4",
-    "apple-iphone-15-pro-natural-titanium": "iphone-15-pro",
-    "apple-iphone14promax-deeppurple": "iphone-14-pro-max",
-    "apple-iphone-se-black": "iphone-se",
-    "samsung-galaxys21ultra-silver": "galaxy-s21-ultra",
-    "apple-iphone14plus-purple": "iphone-14-plus",
-    "samsung-galaxys21-white": "galaxy-s21",
-    "samsung-galaxynote5-gold": "galaxy-note-5",
-    "google-pixel4xl-justblack": "google-pixel-4-xl",
-    "apple-iphone13pro-gold": "iphone-13-pro",
-    "apple-iphone-8-plus-space-grey": "iphone-8-plus",
-    "apple-iphone14-red": "iphone-14",
-    "apple-iphone14-purple": "iphone-14",
-    "apple-watch-series-5-40-mm-gold-aluminum-pink-sand-closed": "apple-watch-series-5-40mm",
-    "apple-iphone14plus-blue": "iphone-14-plus",
-    "apple-applewatch45mm-graphitestainlesssteel": "apple-watch-series-8-45mm",
-    "apple-iphone-11-pro-max-gold": "iphone-11-pro-max",
-    "apple-macbook-grey": "macbook",
-    "apple-iphone-11-pro-max-space-grey": "iphone-11-pro-max",
-    "google-pixel4xl-clearlywhite": "google-pixel-4-xl",
-    "apple-iphone13-midnight": "iphone-13",
-    "apple-iphone14pro-gold": "iphone-14-pro",
-    "apple-ipadpro11-spacegrey": "ipad-pro-11-inch",
-    "apple-iphone14plus-starlight": "iphone-14-plus",
-    "samsung-galaxyy-black": "galaxy-y",
-    "apple-watch-series-5-40-mm-space-grey-aluminum-black-closed": "apple-watch-series-5-40mm",
-    "samsung-galaxynote5-silvertitanium": "galaxy-note-5",
-    "samsung-es8000": "samsung-tv-es8000",
-    "apple-applewatch45mm-midnightaluminum": "apple-watch-series-8-45mm",
-    "apple-iphone14-midnight": "iphone-14",
-    "apple-iphone13pro-silver": "iphone-13-pro",
-    "apple-iphone14promax-silver": "iphone-14-pro-max",
-    "apple-iphone13mini-starlight": "iphone-13-mini",
-    "apple-applewatch41mm-silveraluminum": "apple-watch-series-8-41mm",
-    "samsung-galaxys20plus-cosmicgrey": "galaxy-s20-plus",
-    "apple-iphone-11-pro-max-silver": "iphone-11-pro-max",
-    "apple-imac2015": "imac-2015",
-    "google-pixel5-justblack": "google-pixel-5",
-    "motorola-motoe-black": "motorola-moto-e",
-    "apple-iphone14promax-gold": "iphone-14-pro-max",
-    "apple-iphone-15-plus-black": "iphone-15-plus",
-    "motorola-motoe-white": "motorola-moto-e",
-    "apple-applewatch45mm-silverstainlesssteel": "apple-watch-series-8-45mm",
-    "apple-ipadpro13-spacegrey": "ipad-pro-12-9-inch",
-    "samsung-galaxys21-violet": "galaxy-s21",
-    "apple-iphone-11-pro-gold": "iphone-11-pro",
-    "samsung-galaxys21ultra-black": "galaxy-s21-ultra",
-    "apple-iphone14plus-midnight": "iphone-14-plus",
-    "apple-iphone-15-pink": "iphone-15",
-    "samsung-galaxys20ultra-cosmicblack": "galaxy-s20-ultra",
-    "samsung-galaxy-watch-4-black": "samsung-galaxy-watch-4",
-    "google-pixel-8-hazel": "google-pixel-8",
-    "apple-ipadair5-spacegrey": "ipad-air-5",
-    "apple-iphone14-blue": "iphone-14",
-    "google-pixel-7-lemongrass": "google-pixel-7",
-    "apple-iphone-11-purple": "iphone-11",
-    "google-pixel-7-obsidian": "google-pixel-7",
-    "apple-iphone-15-pro-max-blue-titanium": "iphone-15-pro-max",
-    "apple-iphone-15-green": "iphone-15",
-    "apple-iphone14-starlight": "iphone-14",
-    "samsung-galaxys20plus-cloudblue": "galaxy-s20-plus",
-    "samsung-galaxys4-black": "galaxy-s4",
-    "apple-iphone13mini-blue": "iphone-13-mini",
-    "apple-iphone-15-pro-blue-titanium": "iphone-15-pro",
-    "apple-imac2013": "imac-2013",
-    "apple-iphone-15-pro-max-black-titanium": "iphone-15-pro-max",
-    "samsung-galaxys20-cloudblue": "galaxy-s20",
-    "google-pixel-8-obsidian": "google-pixel-8",
-    "apple-macbookpro14": "macbook-pro-14",
-    "samsung-galaxys21plus-violet": "galaxy-s21-plus",
-    "microsoft-surfacepro4": "microsoft-surface-pro-4",
-    "apple-iphone-11-red": "iphone-11",
-    "samsung-d8000": "samsung-tv-d8000",
-    "motorola-motog": "motorola-moto-g",
-    "google-pixel5-sortasage": "google-pixel-5",
-    "apple-iphone-se-red": "iphone-se",
-    "apple-iphone-se-white": "iphone-se",
-    "apple-applewatch41mm-silverstainlesssteel": "apple-watch-series-8-41mm",
-    "apple-iphone-15-plus-yellow": "iphone-15-plus",
-    "apple-imac2015retina": "imac",
-    "apple-ipadmini-starlight": "ipad-mini",
-    "samsung-galaxy-watch-4-silver": "samsung-galaxy-watch-4",
-    "apple-applewatch41mm-goldstainlesssteel": "apple-watch-series-8-41mm",
-    "apple-iphone-15-black": "iphone-15",
-    "apple-iphone13promax-graphite": "iphone-13-pro-max",
-    "apple-iphone13promax-silver": "iphone-13-pro-max",
-    "samsung-galaxys4-white": "galaxy-s4",
-    "google-pixel4-justblack": "google-pixel-4",
-    "apple-iphone-15-pro-black-titanium": "iphone-15-pro",
-    "apple-iphone13-red": "iphone-13",
-    "apple-macbook-gold": "macbook",
-    "dell-xps15": "dell-xps-15",
-    "apple-iphone-11-pro-midnight-green": "iphone-11-pro",
     "microsoft-surfacepro3": "microsoft-surface-pro-3",
-    "apple-iphone-8-plus-silver": "iphone-8-plus",
-    "apple-iphone-8-space-grey": "iphone-8",
-    "samsung-galaxy-s24-ultra": "galaxy-s24-ultra",
-    "google-pixel-slate": "google-pixel",
-    "apple-iphone-11-pro-max-midnight-green": "iphone-11-pro-max",
-    "apple-iphone14pro-deeppurple": "iphone-14-pro",
-    "samsung-galaxyy-white": "galaxy-y",
-    "apple-iphone13pro-sierrablue": "iphone-13-pro",
-    "apple-iphone-11-black": "iphone-11",
-    "apple-iphone13mini-midnight": "iphone-13-mini",
-    "apple-iphone-8-gold": "iphone-8",
-    "samsung-galaxys20-pink": "galaxy-s20",
-    "apple-iphone13promax-sierrablue": "iphone-13-pro-max",
-    "apple-watch-ultra-2-orange-beige-trail-loop": "apple-watch-ultra-2",
-    "apple-iphone-11-pro-silver": "iphone-11-pro",
-    "google-pixel-quite-black": "google-pixel",
-    "google-pixel-really-blue": "google-pixel",
-    "apple-applewatchultra": "apple-watch-ultra",
-    "apple-iphone13-pink": "iphone-13",
-    "apple-iphone-15-blue": "iphone-15",
+    "apple-iphone13mini-starlight": "iphone-13-mini",
+    "apple-iphone-16-plus-black": "iphone-16-plus",
+    "apple-iphone-16-pro-natural-titanium": "iphone-16-pro",
+    "motorola-motoe-white": "motorola-moto-e",
+    "samsung-galaxys21-violet": "samsung-galaxy-s21-5g",
+    "apple-iphone-15-pro-blue-titanium": "iphone-15-pro",
     "google-pixel-8-rose": "google-pixel-8",
-    "apple-iphone-15-plus-green": "iphone-15-plus",
-    "lg-tm2792": "lg-tv-tm2792",
-    "google-pixel4-ohsoorange": "google-pixel-4",
-    "apple-iphone13-starlight": "iphone-13",
-    "google-pixel4xl-ohsoorange": "google-pixel-4-xl",
-    "apple-applewatch45mm-silveraluminum": "apple-watch-series-8-45mm",
-    "microsoft-surfacebook": "microsoft-surface-book",
-    "apple-iphone13promax-gold": "iphone-13-pro-max",
-    "apple-iphone13mini-pink": "iphone-13-mini",
-    "apple-iphone-8-plus-gold": "iphone-8-plus",
-    "apple-iphone13pro-graphite": "iphone-13-pro",
-    "apple-applewatch45mm-starlightaluminum": "apple-watch-series-8-45mm",
-    "nokia3310": "nokia-3310",
-    "apple-ipad-silver": "ipad",
-    "apple-iphone13mini-red": "iphone-13-mini",
-    "samsung-galaxys21-pink": "galaxy-s21",
-    "apple-iphone-11-green": "iphone-11",
-    "apple-iphone-11-yellow": "iphone-11",
-    "google-pixel4-clearlywhite": "google-pixel-4",
-    "apple-applewatch41mm-midnightaluminum": "apple-watch-series-8-41mm",
-    "dell-xps13": "dell-xps-13",
-    "apple-iphone14plus-red": "iphone-14-plus",
-    "google-pixel-very-silver": "google-pixel",
-    "apple-iphone14pro-spaceblack": "iphone-14-pro",
-    "apple-iphone-11-white": "iphone-11",
-    "samsung-galaxynote5-pink": "galaxy-note-5",
-    "apple-watch-ultra-2-blue-alpine-loop": "apple-watch-ultra-2",
-    "samsung-galaxysduos": "galaxy-s-duos",
-    "apple-applewatch41mm-starlightaluminum": "apple-watch-series-8-41mm",
-    "samsung-galaxys21plus-silver": "galaxy-s21-plus",
+    "apple-ipad-pro-13-m4-space-gray": "ipad-pro-13",
+    "motorola-motog": "motorola-moto-g",
+    "samsung-galaxy-watch-4-black": "samsung-galaxy-watch-4",
+    "apple-iphone-17-pro-max-cosmic-orange": "iphone-17-pro-max",
+    "samsung-d8000": "samsung-tv-d8000",
+    "apple-iphone-15-pro-max-natural-titanium": "iphone-15-pro-max",
+    "apple-iphone-11-black": "iphone-11",
+    "google-pixel4xl-justblack": "google-pixel-4-xl",
     "apple-iphone-15-yellow": "iphone-15",
-    "huawei-p-40-pro-plus": "huawei-p40-pro",
-    "samsung-galaxys20ultra-cosmicgrey": "galaxy-s20-ultra",
-    "apple-iphone-11-pro-space-grey": "iphone-11-pro",
-    "apple-iphone14pro-silver": "iphone-14-pro",
+    "apple-iphone-8-gold": "iphone-8",
+    "apple-iphone14-red": "iphone-14",
+    "apple-iphone-16-pro-desert-titanium": "iphone-16-pro",
+    "apple-iphone-11-white": "iphone-11",
+    "google-pixel-7-snow": "google-pixel-7",
+    "apple-iphone-15-pro-max-blue-titanium": "iphone-15-pro-max",
+    "samsung-galaxysduos": "samsung-galaxy-s-duos",
+    "apple-iphone-16-pro-max-desert-titanium": "iphone-16-pro-max",
+    "apple-ipadpro11-spacegrey": "ipad-pro-11-inch",
+    "apple-iphone-15-pro-max-black-titanium": "iphone-15-pro-max",
+    "samsung-galaxy-watch-4-silver": "samsung-galaxy-watch-4",
+    "apple-iphone-air-cloud-white": "iphone-air",
+    "samsung-es8000": "samsung-tv-es8000",
+    "apple-iphone-17-mist-blue": "iphone-17",
+    "samsung-galaxys21ultra-black": "samsung-galaxy-s21-ultra",
+    "apple-iphone-15-plus-blue": "iphone-15-plus",
+    "apple-iphone-17-pro-max-deep-blue": "iphone-17-pro-max",
+    "apple-iphone-15-plus-yellow": "iphone-15-plus",
+    "apple-iphone-16-plus-pink": "iphone-16-plus",
+    "apple-iphone13mini-red": "iphone-13-mini",
+    "apple-iphone-17-black": "iphone-17",
+    "google-pixel5-sortasage": "google-pixel-5",
+    "apple-iphone-11-pro-silver": "iphone-11-pro",
+    "apple-iphone-11-pro-midnight-green": "iphone-11-pro",
+    "samsung-galaxys20ultra-cosmicblack": "samsung-galaxy-s20-ultra",
+    "apple-ipad-air-11-m2-purple": "ipad-air-11",
+    "apple-applewatch41mm-silveraluminum": "apple-watch-series-8-41mm",
+    "apple-iphone13promax-sierrablue": "iphone-13-pro-max",
+    "samsung-galaxys20-pink": "samsung-galaxy-s20",
+    "apple-iphone14pro-spaceblack": "iphone-14-pro",
+    "apple-iphone14promax-deeppurple": "iphone-14-pro-max",
+    "apple-iphone-11-red": "iphone-11",
+    "apple-iphone14promax-spaceblack": "iphone-14-pro-max",
+    "nokia3310": "nokia-3310",
+    "apple-iphone-16-pro-max-white-titanium": "iphone-16-pro-max",
+    "apple-iphone-15-pro-white-titanium": "iphone-15-pro",
+    "apple-iphone14-midnight": "iphone-14",
+    "apple-iphone-17-pro-silver": "iphone-17-pro",
+    "apple-iphone-17-pro-cosmic-orange": "iphone-17-pro",
+    "apple-iphone14plus-midnight": "iphone-14-plus",
+    "apple-iphone-16-teal": "iphone-16",
+    "apple-iphone13-blue": "iphone-13",
+    "apple-ipad-air-13-m2-stardust": "ipad-air-13",
+    "apple-iphone14promax-gold": "iphone-14-pro-max",
+    "apple-iphone-17-white": "iphone-17",
+    "apple-iphone-16-ultramarine": "iphone-16",
+    "apple-iphone13-pink": "iphone-13",
+    "apple-iphone-se-white": "iphone-se",
+    "microsoft-surfacebook": "microsoft-surface-book",
+    "apple-iphone-11-pro-gold": "iphone-11-pro",
     "apple-macbookpro16": "macbook-pro-16",
-    "samsung-galaxynote5-black": "galaxy-note-5",
+    "apple-ipad-pro-13-m4-silver": "ipad-pro-13",
+    "apple-iphone-15-black": "iphone-15",
+    "apple-applewatch41mm-silverstainlesssteel": "apple-watch-series-8-41mm",
+    "apple-imac2013": "imac-2013",
+    "apple-iphone-air-sky-blue": "iphone-air",
+    "apple-iphone-15-pro-max-white-titanium": "iphone-15-pro-max",
+    "samsung-galaxynote5-pink": "samsung-galaxy-note-5",
+    "apple-applewatch45mm-graphitestainlesssteel": "apple-watch-series-8-45mm",
+    "apple-iphone14pro-gold": "iphone-14-pro",
+    "apple-iphone-16-plus-ultramarine": "iphone-16-plus",
+    "apple-iphone14plus-blue": "iphone-14-plus",
+    "apple-iphone-17-lavender": "iphone-17",
+    "samsung-galaxys21plus-black": "samsung-galaxy-s21-5g",
+    "huawei-p-40-pro-plus": "huawei-p40-pro",
+    "apple-ipad-air-13-m2-purple": "ipad-air-13",
+    "samsung-galaxys4-black": "samsung-galaxy-s4",
+    "apple-iphone-15-plus-pink": "iphone-15-plus",
+    "apple-iphone-11-green": "iphone-11",
+    "samsung-galaxyy-black": "samsung-galaxy-y",
+    "apple-iphone-15-pink": "iphone-15",
+    "lg-55lw5600": "lg-tv-55lw5600",
+    "apple-ipad-silver": "ipad",
+    "apple-iphone13promax-silver": "iphone-13-pro-max",
+    "apple-watch-series-5-40-mm-space-grey-aluminum-black-closed": "apple-watch-series-5-40mm",
+    "apple-iphone-16-pink": "iphone-16",
+    "apple-ipad-air-11-m2-blue": "ipad-air-11",
+    "apple-imac2015": "imac-2015",
+    "apple-applewatch41mm-goldstainlesssteel": "apple-watch-series-8-41mm",
+    "apple-iphone-11-pro-max-gold": "iphone-11-pro-max",
+    "samsung-galaxys20-cloudblue": "samsung-galaxy-s20",
+    "apple-ipadpro13-spacegrey": "ipad-pro-129-inch",
+    "apple-iphone-16-white": "iphone-16",
+    "apple-iphone-11-pro-max-space-grey": "iphone-11-pro-max",
+    "samsung-galaxys20ultra-cosmicgrey": "samsung-galaxy-s20-ultra",
+    "samsung-galaxys20plus-cosmicgrey": "samsung-galaxy-s20",
+    "apple-iphone13promax-graphite": "iphone-13-pro-max",
+    "apple-iphone-16-pro-max-black-titanium": "iphone-16-pro-max",
+    "google-pixel4-clearlywhite": "google-pixel-4",
+    "apple-iphone13-red": "iphone-13",
+    "apple-watch-ultra-2-blue-alpine-loop": "apple-watch-ultra-2",
+    "google-pixel-very-silver": "google-pixel",
+    "google-pixel-7-obsidian": "google-pixel-7",
+    "apple-iphone14-purple": "iphone-14",
     "apple-watch-ultra-2-orange-ocean-band": "apple-watch-ultra-2",
+    "apple-iphone14pro-silver": "iphone-14-pro",
+    "apple-iphone-15-plus-black": "iphone-15-plus",
+    "google-pixel-7-lemongrass": "google-pixel-7",
+    "apple-iphone-8-plus-gold": "iphone-8-plus",
+    "apple-ipad-air-11-m2-stardust": "ipad-air-11",
+    "samsung-galaxys4-white": "samsung-galaxy-s4",
+    "apple-iphone13pro-gold": "iphone-13-pro",
+    "samsung-galaxynote5-black": "samsung-galaxy-note-5",
+    "apple-iphone-11-pro-max-midnight-green": "iphone-11-pro-max",
+    "apple-iphone-15-blue": "iphone-15",
+    "apple-watch-series-5-40-mm-white-ceramic-white-closed": "apple-watch-series-5-40mm",
+    "apple-macbookpro14": "macbook-pro-14",
+    "apple-iphone13pro-silver": "iphone-13-pro",
+    "apple-iphone-8-space-grey": "iphone-8",
+    "apple-applewatch41mm-midnightaluminum": "apple-watch-series-8-41mm",
+    "apple-iphone13pro-graphite": "iphone-13-pro",
+    "samsung-galaxy-watch-4-pink-gold": "samsung-galaxy-watch-4",
+    "apple-ipad-air-13-m2-space-gray": "ipad-air-13",
+    "dell-xps13": "dell-xps-13",
+    "apple-applewatch41mm-graphitestainlesssteel": "apple-watch-series-8-41mm",
+    "apple-watch-ultra-2-orange-beige-trail-loop": "apple-watch-ultra-2",
+    "samsung-galaxys20plus-cloudblue": "samsung-galaxy-s20",
+    "apple-iphone-17-pro-deep-blue": "iphone-17-pro",
+    "lg-tm2792": "lg-tv-tm2792",
+    "apple-iphone-16-pro-black-titanium": "iphone-16-pro",
+    "apple-iphone-air-space-black": "iphone-air",
+    "apple-iphone-16-plus-teal": "iphone-16-plus",
+    "apple-applewatch45mm-goldstainlesssteel": "apple-watch-series-8-45mm",
+    "apple-iphone14plus-purple": "iphone-14-plus",
+    "apple-iphone-11-pro-space-grey": "iphone-11-pro",
+    "microsoft-surfacepro4": "microsoft-surface-pro-4",
+    "apple-iphone-8-silver": "iphone-8",
+    "apple-applewatch45mm-silveraluminum": "apple-watch-series-8-45mm",
     "apple-macbookair13": "macbook-air-13",
-    "apple-iphone-15-pro-white-titanium": "iphone-15-pro"
+    "apple-iphone-15-pro-black-titanium": "iphone-15-pro",
+    "samsung-galaxys20plus-cosmicblack": "samsung-galaxy-s20",
+    "apple-ipad-pro-11-m4-silver": "ipad-pro-11",
+    "google-pixel-8-hazel": "google-pixel-8",
+    "apple-iphone13mini-pink": "iphone-13-mini",
+    "google-pixel-8-obsidian": "google-pixel-8",
+    "apple-iphone13promax-gold": "iphone-13-pro-max",
+    "apple-ipad-mini-starlight": "ipad-mini",
+    "google-pixel-really-blue": "google-pixel",
+    "apple-iphone13-starlight": "iphone-13",
+    "google-pixel4-ohsoorange": "google-pixel-4",
+    "samsung-galaxynote5-silvertitanium": "samsung-galaxy-note-5",
+    "google-pixel4xl-clearlywhite": "google-pixel-4-xl",
+    "google-pixel5-justblack": "google-pixel-5",
+    "apple-imac2015retina": "imac-retina-2015",
+    "apple-iphone-8-plus-space-grey": "iphone-8-plus",
+    "google-pixel-slate": "google-pixel-slate",
+    "samsung-galaxyy-white": "samsung-galaxy-y",
+    "apple-iphone-15-green": "iphone-15",
+    "samsung-galaxys21-white": "samsung-galaxy-s21-5g",
+    "samsung-galaxynote5-gold": "samsung-galaxy-note-5",
+    "apple-applewatch45mm-starlightaluminum": "apple-watch-series-8-45mm",
+    "apple-iphone14pro-deeppurple": "iphone-14-pro",
+    "apple-ipad-pro-11-m4-space-gray": "ipad-pro-11",
+    "apple-iphone13pro-sierrablue": "iphone-13-pro",
+    "google-pixel4-justblack": "google-pixel-4",
+    "apple-iphone-air-light-gold": "iphone-air",
+    "apple-iphone-se-black": "iphone-se",
+    "oneplus-oneplus8pro": "one-plus-8-pro",
+    "apple-iphone-15-plus-green": "iphone-15-plus",
+    "samsung-galaxynote5-white": "samsung-galaxy-note-5",
+    "apple-applewatch45mm-midnightaluminum": "apple-watch-series-8-45mm",
+    "samsung-galaxy-s24-ultra": "samsung-galaxy-s24-ultra",
+    "apple-ipadmini-starlight": "ipad-mini",
+    "apple-ipad-air-11-m2-space-gray": "ipad-air-11",
+    "apple-macbook-grey": "macbook",
+    "samsung-galaxys21-black": "samsung-galaxy-s21-5g",
+    "samsung-galaxys21plus-violet": "samsung-galaxy-s21-5g",
+    "apple-watch-series-5-40-mm-gold-aluminum-pink-sand-closed": "apple-watch-series-5-40mm",
+    "samsung-galaxys21ultra-silver": "samsung-galaxy-s21-ultra",
+    "dell-xps15": "dell-xps-15",
+    "apple-iphone-15-pro-natural-titanium": "iphone-15-pro",
+    "apple-iphone-16-pro-white-titanium": "iphone-16-pro",
+    "apple-iphone-11-yellow": "iphone-11",
+    "apple-iphone-8-plus-silver": "iphone-8-plus",
+    "apple-iphone-11-purple": "iphone-11",
+    "apple-iphone14plus-starlight": "iphone-14-plus",
+    "apple-ipadair5-spacegrey": "ipad-air-5",
+    "apple-iphone-se-red": "iphone-se",
+    "apple-iphone14-starlight": "iphone-14",
+    "apple-iphone-17-sage": "iphone-17",
+    "samsung-galaxys21-pink": "samsung-galaxy-s21-5g",
+    "apple-iphone13-midnight": "iphone-13",
+    "apple-macbook-gold": "macbook",
+    "apple-applewatch45mm-silverstainlesssteel": "apple-watch-series-8-45mm",
+    "apple-applewatch41mm-starlightaluminum": "apple-watch-series-8-41mm",
+    "google-pixel-quite-black": "google-pixel",
+    "apple-iphone-16-pro-max-natural-titanium": "iphone-16-pro-max",
+    "apple-iphone14-blue": "iphone-14",
+    "apple-ipad-air-13-m2-blue": "ipad-air-13",
+    "google-pixel4xl-ohsoorange": "google-pixel-4-xl",
+    "apple-iphone-16-plus-white": "iphone-16-plus",
+    "apple-applewatchultra": "apple-watch-ultra",
+    "apple-iphone-11-pro-max-silver": "iphone-11-pro-max",
+    "samsung-galaxys21plus-silver": "samsung-galaxy-s21-5g",
+    "samsung-galaxys20-cosmicgrey": "samsung-galaxy-s20",
+    "motorola-motoe-black": "motorola-moto-e",
+    "apple-iphone13mini-blue": "iphone-13-mini",
+    "apple-iphone14plus-red": "iphone-14-plus",
+    "apple-iphone-16-black": "iphone-16",
+    "apple-iphone14promax-silver": "iphone-14-pro-max",
+    "apple-iphone-17-pro-max-silver": "iphone-17-pro-max",
+    "apple-iphone13mini-midnight": "iphone-13-mini"
   }
 }
